@@ -1,0 +1,6154 @@
+[
+  {
+    "id": "395bf664-b773-43ca-a9bd-137513dbb510",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 235,
+    "itemPurchased": null,
+    "timestamp": 1735868968
+  },
+  {
+    "id": "49c0a3de-d225-4aaf-803f-d6e55e5bd144",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 128,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 55,
+      "nbt": null
+    },
+    "timestamp": 1736302481
+  },
+  {
+    "id": "3489564e-edff-4ba1-a10f-384d42faa7ce",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 440,
+    "itemPurchased": null,
+    "timestamp": 1736265366
+  },
+  {
+    "id": "0dbffc13-f7c5-4b08-bc0a-76906104b883",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 349,
+    "itemPurchased": null,
+    "timestamp": 1736229271
+  },
+  {
+    "id": "d6b8840b-0fa6-4d14-815d-62132f673a93",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 364,
+    "itemPurchased": null,
+    "timestamp": 1736587227
+  },
+  {
+    "id": "d869c59f-106d-4b5f-b5bf-2a5fb37be421",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 241,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736281153
+  },
+  {
+    "id": "e0a37643-2598-4237-9444-7febfd30c354",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 96,
+    "itemPurchased": null,
+    "timestamp": 1736137873
+  },
+  {
+    "id": "357b6a2e-f261-4cf0-8c1a-708cb706cea9",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 10,
+    "itemPurchased": null,
+    "timestamp": 1736297047
+  },
+  {
+    "id": "4684c6e4-70a8-4a8c-86df-d09947b79dea",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 469,
+    "itemPurchased": null,
+    "timestamp": 1736021770
+  },
+  {
+    "id": "4e847c7a-139e-40d2-9299-71c8bad2bfd4",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 325,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 2,
+      "nbt": null
+    },
+    "timestamp": 1736442535
+  },
+  {
+    "id": "15bb2530-9c4e-4c88-9647-284c7a4553ed",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 147,
+    "itemPurchased": null,
+    "timestamp": 1736490059
+  },
+  {
+    "id": "df20c046-5065-4b07-b36c-93508d05dbed",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 130,
+    "itemPurchased": null,
+    "timestamp": 1736595585
+  },
+  {
+    "id": "3a156683-9b15-4459-bd07-7fd22ac63ef4",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 128,
+    "itemPurchased": null,
+    "timestamp": 1736526494
+  },
+  {
+    "id": "6879ea26-3f63-489a-941e-d3054ee756a9",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 453,
+    "itemPurchased": null,
+    "timestamp": 1735874820
+  },
+  {
+    "id": "0ce5abcb-6eec-4179-af9d-c85f0d6367d4",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 282,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 28,
+      "nbt": null
+    },
+    "timestamp": 1736374980
+  },
+  {
+    "id": "846845ad-6b58-403e-96ea-08cf115c9ec7",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 48,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 6,
+      "nbt": null
+    },
+    "timestamp": 1736377950
+  },
+  {
+    "id": "3f531a64-d97c-4e7b-b69f-7a067d4eb34f",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 75,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736055980
+  },
+  {
+    "id": "88c69de1-4df6-4063-8116-da4619e32348",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 308,
+    "itemPurchased": null,
+    "timestamp": 1736431125
+  },
+  {
+    "id": "2380c72a-c7fa-418d-82df-8d81fe71314a",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 36,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735945496
+  },
+  {
+    "id": "c6bfc836-91df-4b91-8a82-915e3b7e9fd7",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 473,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735820547
+  },
+  {
+    "id": "3e239d7f-8059-4d87-ae49-35b3889f723b",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 64,
+    "itemPurchased": null,
+    "timestamp": 1736497771
+  },
+  {
+    "id": "c4acd92d-f450-4151-b8c6-0115a79d3646",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 238,
+    "itemPurchased": null,
+    "timestamp": 1736204656
+  },
+  {
+    "id": "c96b27a9-6cda-47ce-b510-4e9de5a460f2",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 366,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736600797
+  },
+  {
+    "id": "49a8811a-e044-4a7a-b897-58b103b7130d",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 29,
+    "itemPurchased": null,
+    "timestamp": 1736583506
+  },
+  {
+    "id": "112b402e-c921-4abe-afbb-3ae703409761",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 350,
+    "itemPurchased": null,
+    "timestamp": 1736011692
+  },
+  {
+    "id": "fc2ee79c-73d6-46a3-a9b1-a84a76f5fd43",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 228,
+    "itemPurchased": null,
+    "timestamp": 1736391323
+  },
+  {
+    "id": "0f7adb8b-d5c3-486f-a1a5-b94d72fb4ad8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 238,
+    "itemPurchased": null,
+    "timestamp": 1736264193
+  },
+  {
+    "id": "c3d492ef-c4e6-449d-b795-b4e896b97f6f",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 491,
+    "itemPurchased": null,
+    "timestamp": 1735859331
+  },
+  {
+    "id": "66bef89c-e3f3-4d7a-8c27-a8840f47568d",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 117,
+    "itemPurchased": null,
+    "timestamp": 1736522023
+  },
+  {
+    "id": "56a12ee1-9e2b-4770-a449-ebfc7d48803d",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 174,
+    "itemPurchased": null,
+    "timestamp": 1736579928
+  },
+  {
+    "id": "e37c0024-ae7b-4483-8388-c8fea853ad02",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 53,
+    "itemPurchased": null,
+    "timestamp": 1735825171
+  },
+  {
+    "id": "abdc5c36-6cdd-47d9-9827-0bce8086cd45",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 345,
+    "itemPurchased": null,
+    "timestamp": 1736023005
+  },
+  {
+    "id": "f3b03049-cd1d-4192-88ae-fa52db9220aa",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 340,
+    "itemPurchased": null,
+    "timestamp": 1735918745
+  },
+  {
+    "id": "7154b92c-17f1-49e0-a406-941016db1887",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 432,
+    "itemPurchased": null,
+    "timestamp": 1736429268
+  },
+  {
+    "id": "b1ab9e2a-3edb-4a2e-afb0-f170091f2a5c",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 337,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 55,
+      "nbt": null
+    },
+    "timestamp": 1736496401
+  },
+  {
+    "id": "4ca1e28f-e8d9-457d-8c73-cddcad28f252",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 443,
+    "itemPurchased": null,
+    "timestamp": 1736397125
+  },
+  {
+    "id": "a8ec5d51-7e7f-43ff-9fd4-544e508b6268",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 46,
+    "itemPurchased": null,
+    "timestamp": 1736128902
+  },
+  {
+    "id": "7e1c91d9-ee0d-4970-85db-0301bee40f7b",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 171,
+    "itemPurchased": null,
+    "timestamp": 1736434353
+  },
+  {
+    "id": "593d4888-73d1-4a18-a878-9010f91bd8d3",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 32,
+    "itemPurchased": null,
+    "timestamp": 1736367683
+  },
+  {
+    "id": "44a1c9dd-2f84-4ea9-a728-595086bd04bc",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 277,
+    "itemPurchased": null,
+    "timestamp": 1736315632
+  },
+  {
+    "id": "4625eff1-9933-46f8-87a6-461571426227",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 286,
+    "itemPurchased": null,
+    "timestamp": 1736219016
+  },
+  {
+    "id": "96acf382-4c26-4afc-8e85-0a4eb239f7c9",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 452,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 51,
+      "nbt": null
+    },
+    "timestamp": 1736236067
+  },
+  {
+    "id": "c4d76aa2-9f06-4079-ac04-0b45e15d5dd2",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 377,
+    "itemPurchased": null,
+    "timestamp": 1736367665
+  },
+  {
+    "id": "af61e6c9-c223-41e3-baca-96fd625afeed",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 283,
+    "itemPurchased": null,
+    "timestamp": 1736450428
+  },
+  {
+    "id": "019e0424-f7cb-490a-8603-1dc0a2afffc0",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 230,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 34,
+      "nbt": null
+    },
+    "timestamp": 1735833983
+  },
+  {
+    "id": "dcd93178-b76c-4a3d-bfe7-150d63f9bea8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 397,
+    "itemPurchased": null,
+    "timestamp": 1735823833
+  },
+  {
+    "id": "03add43f-c781-4463-aac7-40a179d62dcf",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 51,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 30,
+      "nbt": null
+    },
+    "timestamp": 1736345891
+  },
+  {
+    "id": "48a67f0b-c37c-4adc-9015-b8b15d006d41",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 34,
+    "itemPurchased": null,
+    "timestamp": 1736127938
+  },
+  {
+    "id": "307d8aaf-b4f7-4e00-a17c-0d0359bd23fe",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 157,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 20,
+      "nbt": null
+    },
+    "timestamp": 1736555590
+  },
+  {
+    "id": "a29cb220-94f7-4827-83f0-1de038aa8a94",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 260,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 38,
+      "nbt": null
+    },
+    "timestamp": 1736598050
+  },
+  {
+    "id": "be9064b4-c004-40a7-b592-0c01ebeb8902",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 188,
+    "itemPurchased": null,
+    "timestamp": 1735886195
+  },
+  {
+    "id": "0fe2d3d9-a5e1-4441-94ae-6b4a30139693",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 111,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 61,
+      "nbt": null
+    },
+    "timestamp": 1736345231
+  },
+  {
+    "id": "71b6ad1f-d4da-4266-a04a-2f302ab0dd6f",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 252,
+    "itemPurchased": null,
+    "timestamp": 1736384957
+  },
+  {
+    "id": "b675fac0-8eb1-41db-af68-8d8b1d172cb1",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 375,
+    "itemPurchased": null,
+    "timestamp": 1736286126
+  },
+  {
+    "id": "c8acd74a-1fd6-414c-a56b-205c3cf08b1c",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 223,
+    "itemPurchased": null,
+    "timestamp": 1736588092
+  },
+  {
+    "id": "434e75f5-ace0-4ea2-b899-671ffeba030b",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 165,
+    "itemPurchased": null,
+    "timestamp": 1736351398
+  },
+  {
+    "id": "2f3183dc-ed0b-48e8-8ee1-72911cd32a78",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 67,
+    "itemPurchased": null,
+    "timestamp": 1736055778
+  },
+  {
+    "id": "2082e5eb-d1ff-4c70-92d2-751603c65cac",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 374,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736236906
+  },
+  {
+    "id": "da5edbaa-ba2c-47b1-a169-818c8a9c13e8",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 484,
+    "itemPurchased": null,
+    "timestamp": 1736068836
+  },
+  {
+    "id": "64221283-f202-452d-98c1-1ef5666b1035",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 459,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 24,
+      "nbt": null
+    },
+    "timestamp": 1736066550
+  },
+  {
+    "id": "1bad57cd-a93f-48f0-9737-00d7e91e5ab9",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 80,
+    "itemPurchased": null,
+    "timestamp": 1736231815
+  },
+  {
+    "id": "738399f2-79a0-4bd1-838a-fb4bef64e4fe",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 226,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 18,
+      "nbt": null
+    },
+    "timestamp": 1736092463
+  },
+  {
+    "id": "ca69f4f2-12e9-45eb-bbb0-b4750dbb8770",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 269,
+    "itemPurchased": null,
+    "timestamp": 1736459850
+  },
+  {
+    "id": "8163bcdd-3114-4b9e-b130-4b98bf0ed7ec",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 61,
+    "itemPurchased": null,
+    "timestamp": 1736559597
+  },
+  {
+    "id": "47f1eef4-84ec-4ca6-8c79-3347cb34c813",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 268,
+    "itemPurchased": null,
+    "timestamp": 1735949048
+  },
+  {
+    "id": "027056b9-9e5f-4f26-b505-bf0273c61e26",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 484,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 55,
+      "nbt": null
+    },
+    "timestamp": 1736157919
+  },
+  {
+    "id": "4f353dc9-3191-4f8e-9c01-137630bf0810",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 295,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 51,
+      "nbt": null
+    },
+    "timestamp": 1736408193
+  },
+  {
+    "id": "6f5efc42-bbf8-4de5-8fb4-4f06e330f045",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 183,
+    "itemPurchased": null,
+    "timestamp": 1736034204
+  },
+  {
+    "id": "0d0ba667-6d9b-4e20-9467-6b5ffad03a57",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 177,
+    "itemPurchased": null,
+    "timestamp": 1736586241
+  },
+  {
+    "id": "593cf45a-aefc-42b0-a95f-0676e2e6bdf8",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 75,
+    "itemPurchased": null,
+    "timestamp": 1736495593
+  },
+  {
+    "id": "bb040ffd-b5e9-4793-b1ce-28f538e8757c",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 143,
+    "itemPurchased": null,
+    "timestamp": 1735857656
+  },
+  {
+    "id": "d72458f5-a35b-4576-b1ab-8cac7a171caf",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 124,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 53,
+      "nbt": null
+    },
+    "timestamp": 1736301447
+  },
+  {
+    "id": "9d6582f9-adbc-4bf1-9fe9-56d344f9d77c",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 445,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 22,
+      "nbt": null
+    },
+    "timestamp": 1736362564
+  },
+  {
+    "id": "4dc2ffa4-a5af-4327-aa66-5c92aa618d80",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 157,
+    "itemPurchased": null,
+    "timestamp": 1736076532
+  },
+  {
+    "id": "f5965ffa-58b7-4e3c-9e74-ef762df7679e",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 317,
+    "itemPurchased": null,
+    "timestamp": 1736194173
+  },
+  {
+    "id": "4597eb08-6578-4ff0-b1da-9e58cc61cd9b",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 319,
+    "itemPurchased": null,
+    "timestamp": 1736449623
+  },
+  {
+    "id": "c8f145da-fa62-4a9e-aee8-0043301723aa",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 73,
+    "itemPurchased": null,
+    "timestamp": 1736123367
+  },
+  {
+    "id": "eb77b141-44e2-47a9-94d0-1e385cc5b3c2",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 376,
+    "itemPurchased": null,
+    "timestamp": 1736385333
+  },
+  {
+    "id": "b97e8cc4-7671-48a4-b7dc-aad67e69f02b",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 496,
+    "itemPurchased": null,
+    "timestamp": 1736352629
+  },
+  {
+    "id": "734b3757-17ad-44a3-a4b3-ad3b55975308",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 28,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 9,
+      "nbt": null
+    },
+    "timestamp": 1736118803
+  },
+  {
+    "id": "98824c2b-7df3-4395-ba08-a8781f242691",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 175,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 6,
+      "nbt": null
+    },
+    "timestamp": 1735838096
+  },
+  {
+    "id": "260eb4ca-cd48-4f2e-bc06-eeb7708b0830",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 133,
+    "itemPurchased": null,
+    "timestamp": 1736581264
+  },
+  {
+    "id": "aea131f7-0f36-4485-a857-12fc6c68ccf1",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 249,
+    "itemPurchased": null,
+    "timestamp": 1735977397
+  },
+  {
+    "id": "d1b4e65b-ec15-4139-8e4d-a5beb053fb82",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 249,
+    "itemPurchased": null,
+    "timestamp": 1736502234
+  },
+  {
+    "id": "3f4dd0bd-cfba-4035-ac43-af24dba2d98c",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 108,
+    "itemPurchased": null,
+    "timestamp": 1735988996
+  },
+  {
+    "id": "c8242520-9991-43f6-af1e-957df07d0466",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 457,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 59,
+      "nbt": null
+    },
+    "timestamp": 1735920284
+  },
+  {
+    "id": "d9b2cc09-6936-46ce-ae2b-bb0af566f053",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 208,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736133048
+  },
+  {
+    "id": "6dbffdd7-1787-4389-a7f4-00c009775663",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 428,
+    "itemPurchased": null,
+    "timestamp": 1736528446
+  },
+  {
+    "id": "ba38f9a1-4837-4458-aba6-2e4e9f375611",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 371,
+    "itemPurchased": null,
+    "timestamp": 1736080279
+  },
+  {
+    "id": "01952454-96cf-4d06-92ef-fc772ba214ed",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 397,
+    "itemPurchased": null,
+    "timestamp": 1736310026
+  },
+  {
+    "id": "3844c03d-cdc0-4ef6-a203-8585d5e8ca68",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 258,
+    "itemPurchased": null,
+    "timestamp": 1736371482
+  },
+  {
+    "id": "88d1ab29-b23d-4b1a-9af6-b14556dcc3fb",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 436,
+    "itemPurchased": null,
+    "timestamp": 1735839166
+  },
+  {
+    "id": "1c34dc3e-bef0-4649-9375-3439ae2d9b8f",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 404,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 11,
+      "nbt": null
+    },
+    "timestamp": 1736562021
+  },
+  {
+    "id": "d512abb5-499e-470f-abcf-c69506042b94",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 112,
+    "itemPurchased": null,
+    "timestamp": 1736046245
+  },
+  {
+    "id": "ba8a02a7-d44e-47eb-9d97-bf6fcb6ff8f9",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 254,
+    "itemPurchased": null,
+    "timestamp": 1736519257
+  },
+  {
+    "id": "936b6eb8-2949-4ff1-bffc-c420d6828c68",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 47,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 6,
+      "nbt": null
+    },
+    "timestamp": 1736110115
+  },
+  {
+    "id": "2c99b654-3fa7-4943-99b1-9409f74b7b4a",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 452,
+    "itemPurchased": null,
+    "timestamp": 1736272913
+  },
+  {
+    "id": "b2f58906-a632-461f-8b21-48d2febf90dd",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 57,
+    "itemPurchased": null,
+    "timestamp": 1736179755
+  },
+  {
+    "id": "cfbcac94-d15f-4222-b677-8cd8950c7234",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 194,
+    "itemPurchased": null,
+    "timestamp": 1736230778
+  },
+  {
+    "id": "60eb1e3c-98b0-49a7-bb26-4532c5f1bd9c",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 314,
+    "itemPurchased": null,
+    "timestamp": 1736437172
+  },
+  {
+    "id": "27e52361-6278-4cf1-b9ed-a9152d3d2788",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 345,
+    "itemPurchased": null,
+    "timestamp": 1735881141
+  },
+  {
+    "id": "a88e442c-dd68-4f3e-a77f-757e6ef4f010",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 178,
+    "itemPurchased": null,
+    "timestamp": 1735827379
+  },
+  {
+    "id": "896358ca-4af5-41e7-99ca-bd5b783ee6bd",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 422,
+    "itemPurchased": null,
+    "timestamp": 1736277769
+  },
+  {
+    "id": "9bc2ea9b-a43e-443e-af9f-dd6ba26933a6",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 403,
+    "itemPurchased": null,
+    "timestamp": 1736133159
+  },
+  {
+    "id": "1405eb91-b289-4e0d-8890-f3c285e48eac",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 396,
+    "itemPurchased": null,
+    "timestamp": 1736337193
+  },
+  {
+    "id": "2f3fc7ba-741a-44b4-8983-73365baac106",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 155,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736316709
+  },
+  {
+    "id": "99ceaac9-46af-402f-b8f3-2e78e5304adf",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 291,
+    "itemPurchased": null,
+    "timestamp": 1736069636
+  },
+  {
+    "id": "341330e1-22c9-49b3-8afa-cf227f338fcf",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 471,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 16,
+      "nbt": null
+    },
+    "timestamp": 1736199797
+  },
+  {
+    "id": "7bc43f12-265a-4e19-aae0-1299ad1c55b2",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 356,
+    "itemPurchased": null,
+    "timestamp": 1736044489
+  },
+  {
+    "id": "7ccae8af-6f10-44ed-b86f-ca0340a8df6e",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 222,
+    "itemPurchased": null,
+    "timestamp": 1736140854
+  },
+  {
+    "id": "68bdf50b-3a69-4d48-ad36-521ba1c8c572",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 360,
+    "itemPurchased": null,
+    "timestamp": 1735880993
+  },
+  {
+    "id": "036a50e4-d87b-41d0-9ac7-1b1fd6409b74",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 49,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 20,
+      "nbt": null
+    },
+    "timestamp": 1735986208
+  },
+  {
+    "id": "537a7c42-65ee-447e-bd03-de7ac491a581",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 464,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 5,
+      "nbt": null
+    },
+    "timestamp": 1736462183
+  },
+  {
+    "id": "e89cf51f-ed13-4404-adf0-607f595ebf86",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 131,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 36,
+      "nbt": null
+    },
+    "timestamp": 1736297991
+  },
+  {
+    "id": "47a0b2f6-9f29-47c1-8992-a986dc24967b",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 311,
+    "itemPurchased": null,
+    "timestamp": 1736091007
+  },
+  {
+    "id": "e6d80061-9989-49b2-873f-b7f8d6142b8d",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 289,
+    "itemPurchased": null,
+    "timestamp": 1736310522
+  },
+  {
+    "id": "5ec54c00-28d1-467a-9505-f20bb4a0fa0e",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 394,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 21,
+      "nbt": null
+    },
+    "timestamp": 1736420172
+  },
+  {
+    "id": "485a1e7e-0cbe-47f0-aa95-e2efc51c0b64",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 374,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 5,
+      "nbt": null
+    },
+    "timestamp": 1736242760
+  },
+  {
+    "id": "65ed041a-914a-4a8f-b4bf-71edb699e685",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 205,
+    "itemPurchased": null,
+    "timestamp": 1736461390
+  },
+  {
+    "id": "38d5b257-305d-4e2f-8ec4-8a701aa13ef8",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 131,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 17,
+      "nbt": null
+    },
+    "timestamp": 1736527375
+  },
+  {
+    "id": "423f17c4-0379-4a1a-8541-eb2cf9884a6d",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 450,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 8,
+      "nbt": null
+    },
+    "timestamp": 1736246047
+  },
+  {
+    "id": "4eedbda6-c379-43ac-b240-e67173143a58",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 248,
+    "itemPurchased": null,
+    "timestamp": 1735989922
+  },
+  {
+    "id": "a341762f-14dd-4a10-a033-f9ad96bce0a2",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 303,
+    "itemPurchased": null,
+    "timestamp": 1736084478
+  },
+  {
+    "id": "453271f5-5e82-4010-a19b-da39c0aa0974",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 222,
+    "itemPurchased": null,
+    "timestamp": 1736184161
+  },
+  {
+    "id": "58a08ac3-bbb1-44d6-a852-01c74f8d23e6",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 123,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736073409
+  },
+  {
+    "id": "158a5ddd-69d1-44a6-9105-bb3ce706f01a",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 243,
+    "itemPurchased": null,
+    "timestamp": 1736090337
+  },
+  {
+    "id": "29bd477c-f0c5-465c-a334-64795d00f2f0",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 422,
+    "itemPurchased": null,
+    "timestamp": 1736562750
+  },
+  {
+    "id": "f9147053-e893-44cb-8c54-734b0e8a0e90",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 476,
+    "itemPurchased": null,
+    "timestamp": 1736466669
+  },
+  {
+    "id": "9ae0f47c-5f96-4d35-b6c4-2ae80f00bdd6",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 474,
+    "itemPurchased": null,
+    "timestamp": 1736351914
+  },
+  {
+    "id": "0cc24b0a-9f99-46cb-bc85-bf7ab42de064",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 143,
+    "itemPurchased": null,
+    "timestamp": 1736152949
+  },
+  {
+    "id": "68280d57-b6b8-4c15-96d3-18733962014d",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 434,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 35,
+      "nbt": null
+    },
+    "timestamp": 1736485956
+  },
+  {
+    "id": "3fc8540e-182e-4408-bb34-ec6def2a0395",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 451,
+    "itemPurchased": null,
+    "timestamp": 1735892178
+  },
+  {
+    "id": "115b7de3-c55d-4631-8e92-315ded3d996d",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 271,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 49,
+      "nbt": null
+    },
+    "timestamp": 1735906020
+  },
+  {
+    "id": "3a1d6411-d48f-427d-b8a0-f15a55afac86",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 352,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736509625
+  },
+  {
+    "id": "c40b5c3e-1277-416c-a43a-62b921add0a3",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 323,
+    "itemPurchased": null,
+    "timestamp": 1736301921
+  },
+  {
+    "id": "dc0ddeb6-cb9f-47e8-b4a6-672beae7ba26",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 196,
+    "itemPurchased": null,
+    "timestamp": 1736210216
+  },
+  {
+    "id": "bb63e11e-5010-4f4f-abd8-5a2ebb01ce14",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 432,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 9,
+      "nbt": null
+    },
+    "timestamp": 1736231939
+  },
+  {
+    "id": "aa263c21-871a-4537-a897-e8c9e3430a17",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 64,
+    "itemPurchased": null,
+    "timestamp": 1736568667
+  },
+  {
+    "id": "31b113b0-d3e5-431f-a4bb-1bca55d8cc1a",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 64,
+    "itemPurchased": null,
+    "timestamp": 1735838138
+  },
+  {
+    "id": "221deba8-638a-430c-b668-baa662977424",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 74,
+    "itemPurchased": null,
+    "timestamp": 1736245943
+  },
+  {
+    "id": "8b2194e8-eb5e-4dbd-9c2f-e237d82e0488",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 131,
+    "itemPurchased": null,
+    "timestamp": 1735841319
+  },
+  {
+    "id": "c676978b-abb7-414c-8b54-e355ac124223",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 63,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736086214
+  },
+  {
+    "id": "8aa60131-dc7d-48d7-b7ea-262f8c560996",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 180,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 22,
+      "nbt": null
+    },
+    "timestamp": 1735894571
+  },
+  {
+    "id": "5f36b7e1-f7db-4f3d-85a3-1ec11f2b0dbb",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 263,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735883079
+  },
+  {
+    "id": "8de50556-acfe-4ba4-ae1d-a17a25314ece",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 23,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735826874
+  },
+  {
+    "id": "ba11a8dd-f253-4d3f-9eb1-3bfa369fb004",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 342,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736321611
+  },
+  {
+    "id": "c9192b9b-528a-452d-b5f7-8420ffaee779",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 181,
+    "itemPurchased": null,
+    "timestamp": 1736512572
+  },
+  {
+    "id": "eb71b12e-5c06-43c4-80cd-31c8ead78334",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 442,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735827987
+  },
+  {
+    "id": "c166d393-383b-4359-8a64-547f1cac2ad6",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 497,
+    "itemPurchased": null,
+    "timestamp": 1736031474
+  },
+  {
+    "id": "fa42b25f-3e8f-4e12-8b9b-abb4388d84dd",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 455,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736575016
+  },
+  {
+    "id": "19613816-b7af-46e2-be1a-8890ecf5f088",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 411,
+    "itemPurchased": null,
+    "timestamp": 1736306783
+  },
+  {
+    "id": "15ef6adf-e65f-462b-a754-427c8917096b",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 108,
+    "itemPurchased": null,
+    "timestamp": 1736312952
+  },
+  {
+    "id": "af3bb189-bac3-43cb-a73c-a2d453658490",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 330,
+    "itemPurchased": null,
+    "timestamp": 1736353415
+  },
+  {
+    "id": "fdbec4c8-36dc-4a0e-8999-ffc6a36fd085",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 230,
+    "itemPurchased": null,
+    "timestamp": 1736419547
+  },
+  {
+    "id": "0ad214a5-ab8d-43c7-b32e-7d2658478d9b",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 96,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 34,
+      "nbt": null
+    },
+    "timestamp": 1736592960
+  },
+  {
+    "id": "55a03c0d-1611-4f31-a32b-3f027960ddd8",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 414,
+    "itemPurchased": null,
+    "timestamp": 1736223817
+  },
+  {
+    "id": "015562e4-c05a-4b18-b768-855b92626051",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 390,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 59,
+      "nbt": null
+    },
+    "timestamp": 1736318001
+  },
+  {
+    "id": "49501546-a62d-4d5a-b0f4-2b88546b43cd",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 141,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 65,
+      "nbt": null
+    },
+    "timestamp": 1736319962
+  },
+  {
+    "id": "46671fcf-b5c2-4edf-ae95-6be726678cfe",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 461,
+    "itemPurchased": null,
+    "timestamp": 1736010752
+  },
+  {
+    "id": "b29902ae-5f8e-4f94-868e-74eb7a828848",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 27,
+    "itemPurchased": null,
+    "timestamp": 1736540518
+  },
+  {
+    "id": "b4044c4c-d496-4cd2-989b-ae8c37eaad68",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 414,
+    "itemPurchased": null,
+    "timestamp": 1736071213
+  },
+  {
+    "id": "b7f36594-b14e-4a00-a9ee-e435196fe7c8",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 49,
+    "itemPurchased": null,
+    "timestamp": 1735826188
+  },
+  {
+    "id": "61003e0f-d1e6-4045-acca-7b3ae0217e2e",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 166,
+    "itemPurchased": null,
+    "timestamp": 1736509792
+  },
+  {
+    "id": "28f81eed-7c30-4923-8a35-699a8f70fcdf",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 477,
+    "itemPurchased": null,
+    "timestamp": 1736322664
+  },
+  {
+    "id": "74a82392-4e1b-4507-9833-6be3bf952e84",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 385,
+    "itemPurchased": null,
+    "timestamp": 1735982552
+  },
+  {
+    "id": "6f36d9d0-0d62-46d2-9aa8-69bcdf1ffce0",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 290,
+    "itemPurchased": null,
+    "timestamp": 1736349406
+  },
+  {
+    "id": "460c1e8e-813a-4841-b7a7-fa761829e096",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 432,
+    "itemPurchased": null,
+    "timestamp": 1735902781
+  },
+  {
+    "id": "3392ace5-6799-4c29-9e3e-faefb18d3c30",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 12,
+    "itemPurchased": null,
+    "timestamp": 1736276728
+  },
+  {
+    "id": "0f948a3b-b778-40a4-b0f4-0d16159322cd",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 130,
+    "itemPurchased": null,
+    "timestamp": 1735946045
+  },
+  {
+    "id": "e1e39275-5dea-4334-a75a-ce1b7130d4a8",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 245,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 50,
+      "nbt": null
+    },
+    "timestamp": 1736562019
+  },
+  {
+    "id": "52dc18e9-42fa-43ad-9347-3aabc623d869",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 248,
+    "itemPurchased": null,
+    "timestamp": 1736050296
+  },
+  {
+    "id": "65e8eeb9-af14-4612-a735-2aedd37a8afa",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 112,
+    "itemPurchased": null,
+    "timestamp": 1736083795
+  },
+  {
+    "id": "580ace07-de17-4a56-b038-d706ab656ee5",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 436,
+    "itemPurchased": null,
+    "timestamp": 1736355054
+  },
+  {
+    "id": "9d16f4aa-58f2-4a45-8ada-f3a3b01cd992",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 486,
+    "itemPurchased": null,
+    "timestamp": 1736545944
+  },
+  {
+    "id": "d6d9f8ee-8b6f-471a-ab13-75211f12f25f",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 212,
+    "itemPurchased": null,
+    "timestamp": 1735923546
+  },
+  {
+    "id": "67356aeb-2dfa-4cb0-b314-cdc2a6e97818",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 266,
+    "itemPurchased": null,
+    "timestamp": 1736079073
+  },
+  {
+    "id": "acc2a898-fb63-425e-afab-81d7952dfa9d",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 316,
+    "itemPurchased": null,
+    "timestamp": 1736409451
+  },
+  {
+    "id": "1ce306cc-d1ae-4091-9668-e51f5c2a3ad4",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 410,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 49,
+      "nbt": null
+    },
+    "timestamp": 1736355703
+  },
+  {
+    "id": "31168ab3-995c-4253-8127-1c8276efccb7",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 431,
+    "itemPurchased": null,
+    "timestamp": 1736231137
+  },
+  {
+    "id": "68cb090a-17e1-4dcc-8bfc-f49a975bbe7c",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 100,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 16,
+      "nbt": null
+    },
+    "timestamp": 1736140394
+  },
+  {
+    "id": "c0c1bbf8-e1ff-4e88-be91-9e44689dc465",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 203,
+    "itemPurchased": null,
+    "timestamp": 1735881252
+  },
+  {
+    "id": "b33dcf5f-4624-4246-9864-6cd20e5d41d5",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 165,
+    "itemPurchased": null,
+    "timestamp": 1736528678
+  },
+  {
+    "id": "ee5e255d-afa3-460c-8408-0fafb9cf3a6c",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 470,
+    "itemPurchased": null,
+    "timestamp": 1735921987
+  },
+  {
+    "id": "66b6c7b8-aef9-4888-9a2c-dd216616951c",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 180,
+    "itemPurchased": null,
+    "timestamp": 1735944791
+  },
+  {
+    "id": "8ff1cf0f-9c88-47bc-90d1-da11f8b0e93e",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 491,
+    "itemPurchased": null,
+    "timestamp": 1736252876
+  },
+  {
+    "id": "69c39a5a-ba35-4a36-9f65-b286d8a266ed",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 416,
+    "itemPurchased": null,
+    "timestamp": 1736206923
+  },
+  {
+    "id": "e3ac4ffc-f201-400f-ba38-ab3c6ff826be",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 281,
+    "itemPurchased": null,
+    "timestamp": 1735899932
+  },
+  {
+    "id": "520d72ca-7b5e-4254-8b56-92b518cc14b0",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 53,
+    "itemPurchased": null,
+    "timestamp": 1736086352
+  },
+  {
+    "id": "6999d1fa-955d-45c5-8d93-f60c87191c17",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 250,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 47,
+      "nbt": null
+    },
+    "timestamp": 1735998356
+  },
+  {
+    "id": "4983fe2e-fb35-4bbf-8c75-ea25b68f355a",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 99,
+    "itemPurchased": null,
+    "timestamp": 1736328784
+  },
+  {
+    "id": "0518bc33-fc78-4631-a05f-9d7d897c1b72",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 280,
+    "itemPurchased": null,
+    "timestamp": 1735999456
+  },
+  {
+    "id": "66d0a15b-d7ea-4304-bec9-2546b315a423",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 438,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735940001
+  },
+  {
+    "id": "6fef2fb5-37b6-4b3a-92a1-0f5031824b3c",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 165,
+    "itemPurchased": null,
+    "timestamp": 1735961002
+  },
+  {
+    "id": "c311603f-6a15-4622-abb3-4565fec001d5",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 223,
+    "itemPurchased": null,
+    "timestamp": 1736362241
+  },
+  {
+    "id": "1817d5db-9e6a-43ea-a19c-c1adef686132",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 108,
+    "itemPurchased": null,
+    "timestamp": 1736479373
+  },
+  {
+    "id": "919005e2-daa8-4f47-ba79-dccc7fa112d2",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 134,
+    "itemPurchased": null,
+    "timestamp": 1736414759
+  },
+  {
+    "id": "d421c22d-61c1-4956-9e7d-5ac7b7ce25e7",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 289,
+    "itemPurchased": null,
+    "timestamp": 1735948153
+  },
+  {
+    "id": "f1eccb1c-bb19-4288-86b5-5bd312644e09",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 394,
+    "itemPurchased": null,
+    "timestamp": 1736027776
+  },
+  {
+    "id": "27d03144-7f13-48a5-b5fa-6a15f914b6c7",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 415,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 65,
+      "nbt": null
+    },
+    "timestamp": 1736005908
+  },
+  {
+    "id": "e6eb130b-b0ff-4b36-8144-5d82f2252244",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 233,
+    "itemPurchased": null,
+    "timestamp": 1736241817
+  },
+  {
+    "id": "5aedeb54-458c-4bb0-afe6-a1d45bd1fe58",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 176,
+    "itemPurchased": null,
+    "timestamp": 1735831397
+  },
+  {
+    "id": "9b2ae913-07dc-418c-b8d1-b458df0c7434",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 495,
+    "itemPurchased": null,
+    "timestamp": 1736315859
+  },
+  {
+    "id": "e811b5fd-b406-4172-8352-5603194f35a7",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 438,
+    "itemPurchased": null,
+    "timestamp": 1735922022
+  },
+  {
+    "id": "1f6ef762-fecc-4cba-85c8-b933cd28f3f3",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 216,
+    "itemPurchased": null,
+    "timestamp": 1736501198
+  },
+  {
+    "id": "d12e9f8e-7900-43e6-a961-64903d7896a3",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 149,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736292072
+  },
+  {
+    "id": "353bbf17-d3aa-4927-a59e-e9737f4f528e",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 191,
+    "itemPurchased": null,
+    "timestamp": 1736171935
+  },
+  {
+    "id": "646eb60f-28d8-4401-898b-46bae6246b48",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 137,
+    "itemPurchased": null,
+    "timestamp": 1735893425
+  },
+  {
+    "id": "911c774e-fe28-46b1-86e9-c8c1fcccb048",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 412,
+    "itemPurchased": null,
+    "timestamp": 1736378771
+  },
+  {
+    "id": "a79215a5-0298-4321-a9ca-87beb77b7675",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 28,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 25,
+      "nbt": null
+    },
+    "timestamp": 1735980506
+  },
+  {
+    "id": "ff659825-7ec7-4433-a619-796d92767cc1",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 77,
+    "itemPurchased": null,
+    "timestamp": 1736170585
+  },
+  {
+    "id": "a7d428c7-68b3-424d-a8d9-c1a51a31e9d8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 449,
+    "itemPurchased": null,
+    "timestamp": 1735933850
+  },
+  {
+    "id": "fb400799-27c6-4431-90a4-7f6f21d8e6f9",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 83,
+    "itemPurchased": null,
+    "timestamp": 1736208901
+  },
+  {
+    "id": "e404a664-4e3d-4876-8ddc-bba4dcfbb342",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 483,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 30,
+      "nbt": null
+    },
+    "timestamp": 1736306130
+  },
+  {
+    "id": "334653bf-54fb-4315-9944-e30e5f7c45d1",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 229,
+    "itemPurchased": null,
+    "timestamp": 1735922372
+  },
+  {
+    "id": "2af5bb53-500c-437d-bfc1-9730cafe4990",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 412,
+    "itemPurchased": null,
+    "timestamp": 1736010296
+  },
+  {
+    "id": "376fb45d-0f83-4df3-9f22-802dbc7f25b3",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 389,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 27,
+      "nbt": null
+    },
+    "timestamp": 1736205614
+  },
+  {
+    "id": "83a1024d-4fba-4e45-b8ec-f4bf6fb12077",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 384,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 35,
+      "nbt": null
+    },
+    "timestamp": 1736395881
+  },
+  {
+    "id": "50d75a18-e021-4a60-b7c4-b3711dbf6c2a",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 26,
+    "itemPurchased": null,
+    "timestamp": 1736583538
+  },
+  {
+    "id": "741ed466-c3a5-4a3f-8016-eeb0e2d36638",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 139,
+    "itemPurchased": null,
+    "timestamp": 1736366375
+  },
+  {
+    "id": "c0b10bf3-5d49-4d11-a893-c4f7f2882e82",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 482,
+    "itemPurchased": null,
+    "timestamp": 1736537871
+  },
+  {
+    "id": "c6cf48f3-7784-48f7-803c-e6faff57e03a",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 174,
+    "itemPurchased": null,
+    "timestamp": 1735930252
+  },
+  {
+    "id": "db03df62-6264-4e4e-8986-6624d37a7958",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 406,
+    "itemPurchased": null,
+    "timestamp": 1735986483
+  },
+  {
+    "id": "0a62d460-775e-4d63-9e76-c8c1aabf2286",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 282,
+    "itemPurchased": null,
+    "timestamp": 1736055202
+  },
+  {
+    "id": "9af0d477-1c70-4033-92b8-57dc07f3894f",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 178,
+    "itemPurchased": null,
+    "timestamp": 1736228939
+  },
+  {
+    "id": "5736d840-a272-44e0-8d59-5c0cbe02a8cf",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 194,
+    "itemPurchased": null,
+    "timestamp": 1736264517
+  },
+  {
+    "id": "d5a39b5f-be72-468e-8b09-57c8a18d94af",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 280,
+    "itemPurchased": null,
+    "timestamp": 1736557760
+  },
+  {
+    "id": "1250b699-9d8f-4e00-8048-b1a374d14ae5",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 37,
+    "itemPurchased": null,
+    "timestamp": 1736219147
+  },
+  {
+    "id": "ba89c8fd-7f64-485e-915c-d7194a05db5e",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 401,
+    "itemPurchased": null,
+    "timestamp": 1736079936
+  },
+  {
+    "id": "ab64e900-6bc5-4051-b24e-41149c62ca6d",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 317,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736266771
+  },
+  {
+    "id": "73a01e81-ba33-4763-9066-5b7425049a74",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 397,
+    "itemPurchased": null,
+    "timestamp": 1736408179
+  },
+  {
+    "id": "53ab724b-eef0-45cd-882e-ca9b2728eedd",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 18,
+    "itemPurchased": null,
+    "timestamp": 1736401222
+  },
+  {
+    "id": "ba55dbf8-f6b2-4a1f-8455-27838d7ec8f8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 432,
+    "itemPurchased": null,
+    "timestamp": 1736212398
+  },
+  {
+    "id": "f695c474-3879-496a-8a39-346f4887575a",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 282,
+    "itemPurchased": null,
+    "timestamp": 1736410020
+  },
+  {
+    "id": "fa809ef9-48c0-4ad7-b8c3-7c47cbabc88b",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 277,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 4,
+      "nbt": null
+    },
+    "timestamp": 1736530122
+  },
+  {
+    "id": "8ec7b9a4-4c0a-4c67-a700-967d80528335",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 328,
+    "itemPurchased": null,
+    "timestamp": 1736309461
+  },
+  {
+    "id": "c1e782af-293d-46b6-8139-23df2d421cdc",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 268,
+    "itemPurchased": null,
+    "timestamp": 1736211374
+  },
+  {
+    "id": "73f61fcc-6af2-486e-9a77-a11e6acff85b",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 95,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735837145
+  },
+  {
+    "id": "48deac4e-c264-46a0-a54b-3fe3526909b2",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 454,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 25,
+      "nbt": null
+    },
+    "timestamp": 1735868791
+  },
+  {
+    "id": "1307449b-62bb-47a2-8e2d-1c3faae95189",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 220,
+    "itemPurchased": null,
+    "timestamp": 1735969904
+  },
+  {
+    "id": "644134c7-23cd-4261-9ab4-c9c72b9cf530",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 340,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 61,
+      "nbt": null
+    },
+    "timestamp": 1736552954
+  },
+  {
+    "id": "264627b7-a9f1-48b1-873a-49101fac61c2",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 357,
+    "itemPurchased": null,
+    "timestamp": 1736185164
+  },
+  {
+    "id": "06c8fcad-ea53-43ae-b1cf-ae5c918a9bf5",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 272,
+    "itemPurchased": null,
+    "timestamp": 1736239969
+  },
+  {
+    "id": "7c14b197-ce84-4d3c-83b8-280e6a642b7f",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 70,
+    "itemPurchased": null,
+    "timestamp": 1735963998
+  },
+  {
+    "id": "e9c12b90-486c-4b67-971e-ca4d712015e1",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 225,
+    "itemPurchased": null,
+    "timestamp": 1736511100
+  },
+  {
+    "id": "ed2bd85e-3561-4932-9ee4-4bfcc15e84ac",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 397,
+    "itemPurchased": null,
+    "timestamp": 1736429383
+  },
+  {
+    "id": "980e3636-5fcf-4b1a-838e-5095445bd2f2",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 330,
+    "itemPurchased": null,
+    "timestamp": 1736553922
+  },
+  {
+    "id": "472a1157-91c4-4ac2-81c2-08ec44cef240",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 414,
+    "itemPurchased": null,
+    "timestamp": 1736594733
+  },
+  {
+    "id": "e17918ef-107d-4b4b-b555-56adb2026f24",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 16,
+    "itemPurchased": null,
+    "timestamp": 1736468487
+  },
+  {
+    "id": "7d21c811-5828-4303-bc71-02d1efa91de8",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 435,
+    "itemPurchased": null,
+    "timestamp": 1736275001
+  },
+  {
+    "id": "a3861b7f-d29c-4747-9e2f-0092f159202a",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 356,
+    "itemPurchased": null,
+    "timestamp": 1736385494
+  },
+  {
+    "id": "e2347539-aa36-43e7-8b69-65ca8dc4461c",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 162,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 48,
+      "nbt": null
+    },
+    "timestamp": 1736520792
+  },
+  {
+    "id": "8eba36bf-0cc1-402e-b806-d828c3cb3d17",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 445,
+    "itemPurchased": null,
+    "timestamp": 1735938408
+  },
+  {
+    "id": "ff743e29-1a7e-4bfe-a560-bf116fc569c7",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 324,
+    "itemPurchased": null,
+    "timestamp": 1736477779
+  },
+  {
+    "id": "fd70c7ef-cf09-4711-84bd-46f6875296c6",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 185,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736078778
+  },
+  {
+    "id": "11c9b8b5-217e-4eda-a287-e9ffd204b736",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 410,
+    "itemPurchased": null,
+    "timestamp": 1736062474
+  },
+  {
+    "id": "2240ec37-525c-4581-b489-7c7022949053",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 81,
+    "itemPurchased": null,
+    "timestamp": 1736094166
+  },
+  {
+    "id": "4b1658ed-4b0f-4a27-b9c4-b76495bbf33a",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 2,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 8,
+      "nbt": null
+    },
+    "timestamp": 1736282988
+  },
+  {
+    "id": "4a8aa12c-74a8-4dfc-a540-0d7cfc84fe56",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 349,
+    "itemPurchased": null,
+    "timestamp": 1736193271
+  },
+  {
+    "id": "c7cc70b5-f5ec-4f99-9ae5-1307edb308cf",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 220,
+    "itemPurchased": null,
+    "timestamp": 1736165787
+  },
+  {
+    "id": "5043638d-d02d-49d5-b7fa-a87afb26ba5f",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 161,
+    "itemPurchased": null,
+    "timestamp": 1736532165
+  },
+  {
+    "id": "2ba56cd2-c44f-44b8-84a0-62c75240e172",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 350,
+    "itemPurchased": null,
+    "timestamp": 1736501987
+  },
+  {
+    "id": "a8eac101-ce28-422f-b02a-404385719993",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 269,
+    "itemPurchased": null,
+    "timestamp": 1736042361
+  },
+  {
+    "id": "82e5072b-c858-48f9-b0f1-10070fc853cc",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 70,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736344563
+  },
+  {
+    "id": "0f99dd3a-08c9-4c80-ae40-1cf34b18e151",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 447,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 56,
+      "nbt": null
+    },
+    "timestamp": 1736365693
+  },
+  {
+    "id": "b673e2ef-b418-4c5a-8583-20d7808462c6",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 324,
+    "itemPurchased": null,
+    "timestamp": 1736395075
+  },
+  {
+    "id": "d067dbdb-aafa-438c-b438-0bbde0895685",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 11,
+    "itemPurchased": null,
+    "timestamp": 1736094605
+  },
+  {
+    "id": "53a2c7d8-709c-40a3-a4a5-a9c0a95a9a40",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 167,
+    "itemPurchased": null,
+    "timestamp": 1736340668
+  },
+  {
+    "id": "7c51a319-e717-48ef-a49a-2cbbfbdb5af4",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 411,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735962580
+  },
+  {
+    "id": "d5855ae9-f24b-483b-9c05-36726e2ff384",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 306,
+    "itemPurchased": null,
+    "timestamp": 1736084896
+  },
+  {
+    "id": "60c687e9-b899-4d55-a463-19da701b230c",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 111,
+    "itemPurchased": null,
+    "timestamp": 1736428086
+  },
+  {
+    "id": "45222ce8-c756-4641-be2d-48c0fdefd811",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 487,
+    "itemPurchased": null,
+    "timestamp": 1736251079
+  },
+  {
+    "id": "c6279df9-a8da-4b9f-98d6-4f5036c10bf0",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 237,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 58,
+      "nbt": null
+    },
+    "timestamp": 1735965891
+  },
+  {
+    "id": "82b1c096-164b-4069-9f17-3ee0c76ff8b4",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 242,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 24,
+      "nbt": null
+    },
+    "timestamp": 1736111405
+  },
+  {
+    "id": "834cd408-153e-4dbe-8878-e29abc368401",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 71,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736181336
+  },
+  {
+    "id": "77414c2b-5c4a-4aa1-8261-5d77bd177ea8",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 232,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736478040
+  },
+  {
+    "id": "36288902-d346-4c33-b767-1701d04edc7f",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 480,
+    "itemPurchased": null,
+    "timestamp": 1736199555
+  },
+  {
+    "id": "35ee9ff6-baf1-4dd4-b4e1-a81083ec467b",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 138,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 22,
+      "nbt": null
+    },
+    "timestamp": 1735851740
+  },
+  {
+    "id": "c9c4c711-b3e0-40c0-8b94-64a3b8b17d7f",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 66,
+    "itemPurchased": null,
+    "timestamp": 1736549702
+  },
+  {
+    "id": "049380c5-11f2-446b-957f-7c832db05db8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 141,
+    "itemPurchased": null,
+    "timestamp": 1736031166
+  },
+  {
+    "id": "ac3e2635-5f98-4007-b5bb-325de533e12e",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 126,
+    "itemPurchased": null,
+    "timestamp": 1735981717
+  },
+  {
+    "id": "7710dad9-365b-43d6-a3e5-1b1d00e26ab3",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 140,
+    "itemPurchased": null,
+    "timestamp": 1736449777
+  },
+  {
+    "id": "3ad712c7-49e4-4a10-a6f4-f790986632ae",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 392,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 3,
+      "nbt": null
+    },
+    "timestamp": 1736392532
+  },
+  {
+    "id": "47435cf5-cffa-4f30-b5b6-be548213560c",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 453,
+    "itemPurchased": null,
+    "timestamp": 1736243205
+  },
+  {
+    "id": "ed1b7b4a-995f-4eca-945f-9e651a09e593",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 480,
+    "itemPurchased": null,
+    "timestamp": 1736052784
+  },
+  {
+    "id": "fc2c9208-370b-4f4b-84ae-9406e755c98d",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 193,
+    "itemPurchased": null,
+    "timestamp": 1736352672
+  },
+  {
+    "id": "1410e861-043f-400b-9296-fb2e6aebfbb2",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 322,
+    "itemPurchased": null,
+    "timestamp": 1736411322
+  },
+  {
+    "id": "77e2c983-b0b8-49c6-b36b-59cbdb02c873",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 80,
+    "itemPurchased": null,
+    "timestamp": 1736585986
+  },
+  {
+    "id": "6f44375a-a0f3-4742-a935-00e28f04ff3b",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 140,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 37,
+      "nbt": null
+    },
+    "timestamp": 1735965185
+  },
+  {
+    "id": "9516655a-d64c-4811-ae45-f091ff06f91a",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 176,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 56,
+      "nbt": null
+    },
+    "timestamp": 1736031699
+  },
+  {
+    "id": "b64d0fdc-9017-4c58-aa32-cc9f8b785e29",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 4,
+    "itemPurchased": null,
+    "timestamp": 1736052734
+  },
+  {
+    "id": "a61f2962-cd23-4b1e-940b-c58f2421d4eb",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 170,
+    "itemPurchased": null,
+    "timestamp": 1736009786
+  },
+  {
+    "id": "3abd788c-e348-495a-a346-888f428d50fe",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 207,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 33,
+      "nbt": null
+    },
+    "timestamp": 1735874720
+  },
+  {
+    "id": "b158b0eb-5fbd-4379-bb3c-35c9ec828016",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 437,
+    "itemPurchased": null,
+    "timestamp": 1736255037
+  },
+  {
+    "id": "eb071445-9938-4b31-a634-167ee28117f5",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 90,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735841326
+  },
+  {
+    "id": "50f528e9-1e32-4ffe-8a57-2324a0e179bc",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 460,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 42,
+      "nbt": null
+    },
+    "timestamp": 1736458247
+  },
+  {
+    "id": "3502a6af-0c94-4829-9b62-9007cd2278ba",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 119,
+    "itemPurchased": null,
+    "timestamp": 1736547298
+  },
+  {
+    "id": "e48f2b0a-2a95-4fc8-8d91-db9084af3be2",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 379,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 38,
+      "nbt": null
+    },
+    "timestamp": 1736601862
+  },
+  {
+    "id": "55336a4f-bb12-4752-8a69-c2a580f0948f",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 466,
+    "itemPurchased": null,
+    "timestamp": 1736317614
+  },
+  {
+    "id": "cab1bd75-aa25-4990-a1f1-6022875c42a7",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 128,
+    "itemPurchased": null,
+    "timestamp": 1736008560
+  },
+  {
+    "id": "d4bce6c8-10b3-488b-8f31-2fae5bf6fa9c",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 329,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736205577
+  },
+  {
+    "id": "c0e0ce94-41f4-4070-a37b-1594e9040f40",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 23,
+    "itemPurchased": null,
+    "timestamp": 1736313396
+  },
+  {
+    "id": "8f76d2a8-b07d-4088-8f53-5b365464a7ec",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 403,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 35,
+      "nbt": null
+    },
+    "timestamp": 1736263580
+  },
+  {
+    "id": "7d6694ee-fc1d-4ac1-809f-869d37add92e",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 377,
+    "itemPurchased": null,
+    "timestamp": 1736081607
+  },
+  {
+    "id": "30594937-2a85-4744-9d41-403f14640b1c",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 396,
+    "itemPurchased": null,
+    "timestamp": 1736113593
+  },
+  {
+    "id": "a785fa08-8783-4477-ad48-900ccfacac19",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 74,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 62,
+      "nbt": null
+    },
+    "timestamp": 1735852970
+  },
+  {
+    "id": "ad81b064-e8fe-407a-8b14-418e4b3b9864",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 235,
+    "itemPurchased": null,
+    "timestamp": 1735883873
+  },
+  {
+    "id": "1f78abc2-88d2-4787-b596-f0ef4e66a016",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 171,
+    "itemPurchased": null,
+    "timestamp": 1735814440
+  },
+  {
+    "id": "ea34fd7d-e955-494c-889c-00575c69e8c0",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 185,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736557118
+  },
+  {
+    "id": "fb7d721c-fe5a-4784-a712-912ca85e48ad",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 395,
+    "itemPurchased": null,
+    "timestamp": 1735969520
+  },
+  {
+    "id": "6005a7c7-8122-4857-b23e-da2d40bd0026",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 326,
+    "itemPurchased": null,
+    "timestamp": 1736306065
+  },
+  {
+    "id": "48c3ff98-02d8-467a-bda0-925b62560cf3",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 276,
+    "itemPurchased": null,
+    "timestamp": 1736462914
+  },
+  {
+    "id": "3d33ff3a-f772-495b-8b11-a74ad723b773",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 147,
+    "itemPurchased": null,
+    "timestamp": 1736200253
+  },
+  {
+    "id": "490e6790-01d7-475c-87b8-8d65e04bb553",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 284,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736354750
+  },
+  {
+    "id": "f67608e7-6f42-4275-a61a-25a53b48ee88",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 440,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736129197
+  },
+  {
+    "id": "6019a78b-60b7-43fa-a692-23629e25ca28",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 275,
+    "itemPurchased": null,
+    "timestamp": 1735928476
+  },
+  {
+    "id": "a507cd4f-701d-4ddc-a8c8-f8d7942561f8",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 285,
+    "itemPurchased": null,
+    "timestamp": 1736215108
+  },
+  {
+    "id": "8161bc1c-788b-4741-94d8-1f10a2caf26b",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 230,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736075858
+  },
+  {
+    "id": "76b9f8bf-f710-465c-bf4b-bcdefb1e5ab4",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 452,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 20,
+      "nbt": null
+    },
+    "timestamp": 1736217617
+  },
+  {
+    "id": "243c3c8a-a4ee-4085-a00b-cf6057123437",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 453,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 47,
+      "nbt": null
+    },
+    "timestamp": 1736133734
+  },
+  {
+    "id": "13f15e72-c91a-402f-aa06-4417ed136539",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 260,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 55,
+      "nbt": null
+    },
+    "timestamp": 1735995558
+  },
+  {
+    "id": "6431439e-69b6-42a1-ac4d-58ef68b4b308",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 105,
+    "itemPurchased": null,
+    "timestamp": 1735994042
+  },
+  {
+    "id": "2eca43f0-5f68-40b3-ae28-0ee0fc79ebe4",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 9,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736161810
+  },
+  {
+    "id": "4b76f3b2-58d7-4308-b80f-39fcbb81ce67",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 162,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 9,
+      "nbt": null
+    },
+    "timestamp": 1736215712
+  },
+  {
+    "id": "7a5164c4-8d1d-4243-8922-e38137154cb8",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 299,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736340109
+  },
+  {
+    "id": "45f580b2-ff2d-4426-ab9d-3ba2504b3399",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 352,
+    "itemPurchased": null,
+    "timestamp": 1736503630
+  },
+  {
+    "id": "9bb92ffe-5a1c-4aac-8c0c-7890932cf942",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 337,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736438289
+  },
+  {
+    "id": "82a087c9-7183-4b57-8a9d-77e8955a23ad",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 431,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736303609
+  },
+  {
+    "id": "8eb6ab27-dd73-47a4-9ee4-7831a5ba9af5",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 410,
+    "itemPurchased": null,
+    "timestamp": 1736022865
+  },
+  {
+    "id": "80ed822f-d39c-404f-96df-95a2ef0155b5",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 297,
+    "itemPurchased": null,
+    "timestamp": 1736066425
+  },
+  {
+    "id": "fce79c4a-47f0-46da-a734-2f1a9aa0c2df",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 36,
+    "itemPurchased": null,
+    "timestamp": 1736110391
+  },
+  {
+    "id": "9226f28e-56e6-4b11-87ad-3df9df319599",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 331,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 8,
+      "nbt": null
+    },
+    "timestamp": 1736070976
+  },
+  {
+    "id": "b4246d17-eb33-40a1-88f6-ad682e8347c9",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 459,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736584034
+  },
+  {
+    "id": "0103544b-4c59-41f4-bb98-4f9f3c6464e8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 54,
+    "itemPurchased": null,
+    "timestamp": 1736072680
+  },
+  {
+    "id": "9d28f42a-1bb8-4c84-a8b5-b5b11b549e56",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 394,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735824292
+  },
+  {
+    "id": "d7ad7c44-addb-4784-9bcb-a45c3417b6cf",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 97,
+    "itemPurchased": null,
+    "timestamp": 1735887508
+  },
+  {
+    "id": "cdeefee3-6ab8-424e-86f6-2806fcf11f68",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 43,
+    "itemPurchased": null,
+    "timestamp": 1736565368
+  },
+  {
+    "id": "1f174a16-376d-4586-9f5a-6738b86db1aa",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 362,
+    "itemPurchased": null,
+    "timestamp": 1736456048
+  },
+  {
+    "id": "44ce2e96-123e-4c1e-88c4-c8f63af49bb2",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 146,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736135847
+  },
+  {
+    "id": "918518c9-ebd4-4886-9443-a91738d799a8",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 255,
+    "itemPurchased": null,
+    "timestamp": 1736361154
+  },
+  {
+    "id": "8a765afa-d7f6-4782-80e3-640dcb3fde72",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 39,
+    "itemPurchased": null,
+    "timestamp": 1736494491
+  },
+  {
+    "id": "2a513acf-4c2f-490f-89fc-61808a47cab6",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 451,
+    "itemPurchased": null,
+    "timestamp": 1735814603
+  },
+  {
+    "id": "129737d6-a1c8-4b8a-b093-663191cd4d32",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 98,
+    "itemPurchased": null,
+    "timestamp": 1735969852
+  },
+  {
+    "id": "d4bdf739-1871-4711-9a0d-de1709bfd344",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 27,
+    "itemPurchased": null,
+    "timestamp": 1736223201
+  },
+  {
+    "id": "0f8222f4-60f8-4913-ba6f-026383990756",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 174,
+    "itemPurchased": null,
+    "timestamp": 1736176267
+  },
+  {
+    "id": "24bbea18-514d-4f62-adbc-ef96beabbd0f",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 474,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 46,
+      "nbt": null
+    },
+    "timestamp": 1736216347
+  },
+  {
+    "id": "59410dfa-f088-4321-b4cb-1c0facdcb23d",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 274,
+    "itemPurchased": null,
+    "timestamp": 1736340855
+  },
+  {
+    "id": "b5940ceb-7e4c-45c6-8b39-7dd6a4df9fb8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 9,
+    "itemPurchased": null,
+    "timestamp": 1736143640
+  },
+  {
+    "id": "01b25372-768d-4cef-bf21-dddbcfad8072",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 75,
+    "itemPurchased": null,
+    "timestamp": 1736192571
+  },
+  {
+    "id": "a22050dd-b013-4a36-919f-7559f47a0f02",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 91,
+    "itemPurchased": null,
+    "timestamp": 1736016962
+  },
+  {
+    "id": "1ff35ea8-1a59-4761-92b9-a69aaf79d3c9",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 267,
+    "itemPurchased": null,
+    "timestamp": 1736079141
+  },
+  {
+    "id": "b80b67a3-da4c-45d2-85f3-ce3f37aa4e2b",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 379,
+    "itemPurchased": null,
+    "timestamp": 1736194812
+  },
+  {
+    "id": "8fcefc10-a44c-4906-aa45-ce0fa603161b",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 179,
+    "itemPurchased": null,
+    "timestamp": 1736365437
+  },
+  {
+    "id": "a897017a-1834-4dd6-ac12-8e37e3ec767e",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 266,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 43,
+      "nbt": null
+    },
+    "timestamp": 1736042366
+  },
+  {
+    "id": "b7afa8c2-612d-4c30-a380-5e189fef652c",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 486,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735815673
+  },
+  {
+    "id": "566a2b8a-1150-47ec-b134-d03e3285218a",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 405,
+    "itemPurchased": null,
+    "timestamp": 1736297377
+  },
+  {
+    "id": "fbaf7138-132c-4107-9ff2-63c8235cbab9",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 17,
+    "itemPurchased": null,
+    "timestamp": 1736071733
+  },
+  {
+    "id": "83ef22c5-8894-41af-880c-80ca1e2ea0a2",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 394,
+    "itemPurchased": null,
+    "timestamp": 1736056146
+  },
+  {
+    "id": "608da3a4-d01d-4f18-8a9a-bce4e48493b0",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 413,
+    "itemPurchased": null,
+    "timestamp": 1736003512
+  },
+  {
+    "id": "620424dc-8027-4e7c-b027-2af9dd4f3b46",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 442,
+    "itemPurchased": null,
+    "timestamp": 1736077280
+  },
+  {
+    "id": "4b9ca053-4c18-4639-bd06-b2fcf60abd7d",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 482,
+    "itemPurchased": null,
+    "timestamp": 1736134013
+  },
+  {
+    "id": "5714177d-8090-4bf5-b9c4-8981c973e69f",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 301,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 6,
+      "nbt": null
+    },
+    "timestamp": 1735871115
+  },
+  {
+    "id": "3566330e-cd3a-4f60-85f3-f62ff73b758d",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 450,
+    "itemPurchased": null,
+    "timestamp": 1736209673
+  },
+  {
+    "id": "04e414e5-d941-4e83-a72b-b067f753381a",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 311,
+    "itemPurchased": null,
+    "timestamp": 1735918783
+  },
+  {
+    "id": "51ae4884-fd0e-4777-83c9-51d656f918e1",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 243,
+    "itemPurchased": null,
+    "timestamp": 1736174425
+  },
+  {
+    "id": "3eb66588-d668-4e1f-94fd-63df487c2cf5",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 232,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735940830
+  },
+  {
+    "id": "0f0f50ef-ea76-490d-97ef-e0ecdaf87187",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 141,
+    "itemPurchased": null,
+    "timestamp": 1735928724
+  },
+  {
+    "id": "a2246d5a-12c9-48d9-ab64-5928fc4f9b63",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 102,
+    "itemPurchased": null,
+    "timestamp": 1736439922
+  },
+  {
+    "id": "ae2c9014-14d8-4f86-93c8-db1302c56566",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 126,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 40,
+      "nbt": null
+    },
+    "timestamp": 1735880782
+  },
+  {
+    "id": "4fb7e6c7-113a-4193-a15e-e7c850131340",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 321,
+    "itemPurchased": null,
+    "timestamp": 1735998533
+  },
+  {
+    "id": "ef9e05c2-b429-4a3a-9079-5a38f353784a",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 159,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 37,
+      "nbt": null
+    },
+    "timestamp": 1736333320
+  },
+  {
+    "id": "19a63b08-cbec-4f6e-a49d-09ee7aa3dd5e",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 403,
+    "itemPurchased": null,
+    "timestamp": 1735884107
+  },
+  {
+    "id": "9faa7b84-00ea-4fd9-909d-5d342d7dd139",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 272,
+    "itemPurchased": null,
+    "timestamp": 1736445441
+  },
+  {
+    "id": "9cc62b32-0419-4c60-a257-37e65e1c10cd",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 350,
+    "itemPurchased": null,
+    "timestamp": 1736296964
+  },
+  {
+    "id": "51287208-e293-4e0e-a343-cf230349124e",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 114,
+    "itemPurchased": null,
+    "timestamp": 1736172528
+  },
+  {
+    "id": "6f19a2a1-db01-4bdc-912f-f14c6e2b1a89",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 391,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 65,
+      "nbt": null
+    },
+    "timestamp": 1736088624
+  },
+  {
+    "id": "98d6914e-2dcd-4288-9ed5-8de33805baf5",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 258,
+    "itemPurchased": null,
+    "timestamp": 1736544272
+  },
+  {
+    "id": "f6459724-6ca1-466b-a8ef-c3253676d6db",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 243,
+    "itemPurchased": null,
+    "timestamp": 1736531829
+  },
+  {
+    "id": "9efce09d-6a95-4c26-897a-b29a5900d3ff",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 319,
+    "itemPurchased": null,
+    "timestamp": 1736031114
+  },
+  {
+    "id": "c1661059-4771-498b-afd1-3d34b7618012",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 343,
+    "itemPurchased": null,
+    "timestamp": 1735842811
+  },
+  {
+    "id": "b7d57bb9-75aa-4cbb-80c2-e326db2d195c",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 453,
+    "itemPurchased": null,
+    "timestamp": 1736397037
+  },
+  {
+    "id": "f0b72d34-4897-4c46-ba36-f9255e31db30",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 218,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 39,
+      "nbt": null
+    },
+    "timestamp": 1736244673
+  },
+  {
+    "id": "ae68f6c9-6d98-4ad2-ac62-c6a745cd96c4",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 224,
+    "itemPurchased": null,
+    "timestamp": 1736067254
+  },
+  {
+    "id": "b56d0322-814d-4132-9ebf-55c8bbd25423",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 88,
+    "itemPurchased": null,
+    "timestamp": 1736302752
+  },
+  {
+    "id": "00c88e18-2ee5-43c7-b280-6bd348c625a0",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 201,
+    "itemPurchased": null,
+    "timestamp": 1736104259
+  },
+  {
+    "id": "de23863a-658f-4087-a352-79f3225eb267",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 207,
+    "itemPurchased": null,
+    "timestamp": 1736224631
+  },
+  {
+    "id": "f37f55f5-1b91-4e0a-923b-3f65d8022e9b",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 249,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 15,
+      "nbt": null
+    },
+    "timestamp": 1736180570
+  },
+  {
+    "id": "dadbab51-71f7-48ad-ab6d-7acbf8147179",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 416,
+    "itemPurchased": null,
+    "timestamp": 1735917397
+  },
+  {
+    "id": "d375c7a0-8101-4532-bea4-176f7f998deb",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 145,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 18,
+      "nbt": null
+    },
+    "timestamp": 1736576090
+  },
+  {
+    "id": "8c86d3cf-5da6-4e53-9111-88f760a35b4a",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 393,
+    "itemPurchased": null,
+    "timestamp": 1735915263
+  },
+  {
+    "id": "ae00a641-6252-4800-8299-7e4522027dec",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 74,
+    "itemPurchased": null,
+    "timestamp": 1736138510
+  },
+  {
+    "id": "c113c564-b169-43da-9934-43979e559eea",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 259,
+    "itemPurchased": null,
+    "timestamp": 1736356380
+  },
+  {
+    "id": "0b27e133-eebd-451c-ab1c-da6414363446",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 320,
+    "itemPurchased": null,
+    "timestamp": 1736358473
+  },
+  {
+    "id": "86620b25-3189-46ac-8c8b-ca84bf329f70",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 481,
+    "itemPurchased": null,
+    "timestamp": 1736520841
+  },
+  {
+    "id": "fef5fff8-e137-46e8-90e7-b260e28f4bae",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 212,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736379596
+  },
+  {
+    "id": "b4d9674a-97d0-4615-9394-702203e2051f",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 326,
+    "itemPurchased": null,
+    "timestamp": 1736092316
+  },
+  {
+    "id": "769a9a5d-d472-47d6-835b-e2d58d055639",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 378,
+    "itemPurchased": null,
+    "timestamp": 1736584894
+  },
+  {
+    "id": "2fec6133-6eec-4dbf-a37c-26ca5141a948",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 61,
+    "itemPurchased": null,
+    "timestamp": 1735949069
+  },
+  {
+    "id": "567d5582-7900-49c5-bd0d-fbb5ae3dc552",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 57,
+    "itemPurchased": null,
+    "timestamp": 1736077058
+  },
+  {
+    "id": "18a7bcb1-8cea-4e6d-b33c-23e7b1d71a15",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 435,
+    "itemPurchased": null,
+    "timestamp": 1736041100
+  },
+  {
+    "id": "cdf61655-52fd-49f5-8e59-4e3e6a9c1de4",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 30,
+    "itemPurchased": null,
+    "timestamp": 1736330633
+  },
+  {
+    "id": "d90e176a-aba8-4451-9cd4-5b9f9f838f15",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 271,
+    "itemPurchased": null,
+    "timestamp": 1736110510
+  },
+  {
+    "id": "f4d06587-2903-40c9-95c8-a149eb81be3f",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 19,
+    "itemPurchased": null,
+    "timestamp": 1736511234
+  },
+  {
+    "id": "5b79ed71-7133-47be-87b4-8b36b1dd183c",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 280,
+    "itemPurchased": null,
+    "timestamp": 1736522630
+  },
+  {
+    "id": "c83b8dca-d0ac-4bc2-8d2c-3f0c6a171d5c",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 79,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736149428
+  },
+  {
+    "id": "e51ee470-77a1-48e1-912b-cd04f1d597c1",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 79,
+    "itemPurchased": null,
+    "timestamp": 1736501931
+  },
+  {
+    "id": "f4dd9017-c639-4161-84a7-87cd06e0dfb3",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 314,
+    "itemPurchased": null,
+    "timestamp": 1735980486
+  },
+  {
+    "id": "b60ce179-5d36-4070-8e40-0c1438e62435",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 282,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 16,
+      "nbt": null
+    },
+    "timestamp": 1736469515
+  },
+  {
+    "id": "81a570e0-e000-413a-a341-04449bd34dc1",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 172,
+    "itemPurchased": null,
+    "timestamp": 1735956418
+  },
+  {
+    "id": "d0553efe-5075-4f90-8773-8ec7d3d9773b",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 141,
+    "itemPurchased": null,
+    "timestamp": 1736364002
+  },
+  {
+    "id": "c40d53ac-f359-44f4-b333-5174a5475a1b",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 448,
+    "itemPurchased": null,
+    "timestamp": 1736331908
+  },
+  {
+    "id": "b4cb2dc8-ec76-40de-8e5e-2218280fc443",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 204,
+    "itemPurchased": null,
+    "timestamp": 1736129495
+  },
+  {
+    "id": "2a4869db-215a-4c07-8562-5d39d18ebca4",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 29,
+    "itemPurchased": null,
+    "timestamp": 1735933855
+  },
+  {
+    "id": "57970076-1929-4b24-ab38-1d7cbb32ef63",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 211,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 53,
+      "nbt": null
+    },
+    "timestamp": 1736440071
+  },
+  {
+    "id": "5334b0b8-2554-4e25-bb2d-a2d66c03ac4b",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 235,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 49,
+      "nbt": null
+    },
+    "timestamp": 1736260895
+  },
+  {
+    "id": "86255915-8f41-4623-a7e8-3f433022b39d",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 34,
+    "itemPurchased": null,
+    "timestamp": 1736610513
+  },
+  {
+    "id": "98670590-5f35-4228-a622-6008db45c0e8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 127,
+    "itemPurchased": null,
+    "timestamp": 1736145951
+  },
+  {
+    "id": "9b76b680-cc4b-43ac-ac71-0e9373460b61",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 148,
+    "itemPurchased": null,
+    "timestamp": 1736164609
+  },
+  {
+    "id": "f57e7618-e484-4f36-93a7-7663079c4cd6",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 488,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 58,
+      "nbt": null
+    },
+    "timestamp": 1736088621
+  },
+  {
+    "id": "ddb7266b-6017-44a1-b816-282cd1e677b1",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 169,
+    "itemPurchased": null,
+    "timestamp": 1736500253
+  },
+  {
+    "id": "4ac74626-7a56-4c11-b283-e67ab4cb5eb3",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 235,
+    "itemPurchased": null,
+    "timestamp": 1736398930
+  },
+  {
+    "id": "9132c6ac-8f34-4b81-9baa-609e36ab06ad",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 487,
+    "itemPurchased": null,
+    "timestamp": 1736094048
+  },
+  {
+    "id": "1c95ec66-9b4d-4fac-ad90-4131c0e1f256",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 372,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 47,
+      "nbt": null
+    },
+    "timestamp": 1736298715
+  },
+  {
+    "id": "d1a7c159-3b18-4681-9d3a-6db7034b34ab",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 281,
+    "itemPurchased": null,
+    "timestamp": 1736267210
+  },
+  {
+    "id": "9492e69b-48b5-4370-a5b1-24719fa5b8f8",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 231,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 3,
+      "nbt": null
+    },
+    "timestamp": 1736604059
+  },
+  {
+    "id": "b9578651-9954-4af8-b0ea-e9371b6c93f1",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 237,
+    "itemPurchased": null,
+    "timestamp": 1736603402
+  },
+  {
+    "id": "a0d89bee-e46d-4980-9b88-4a9be35fa32a",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 212,
+    "itemPurchased": null,
+    "timestamp": 1736230647
+  },
+  {
+    "id": "fa4904eb-8d65-48b0-99a4-d20a9c6b7f3f",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 334,
+    "itemPurchased": null,
+    "timestamp": 1736601206
+  },
+  {
+    "id": "a45ef345-2746-44a7-913e-263d6079c829",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 468,
+    "itemPurchased": null,
+    "timestamp": 1736181645
+  },
+  {
+    "id": "fe25c9b7-a866-4cf6-8ce7-c22ab301b99e",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 366,
+    "itemPurchased": null,
+    "timestamp": 1735891281
+  },
+  {
+    "id": "f4c7a5bc-2210-4df4-a771-bd492c45f641",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 473,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 26,
+      "nbt": null
+    },
+    "timestamp": 1736486781
+  },
+  {
+    "id": "3f4aadc3-7986-4db2-8ca7-4348708bea7c",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 149,
+    "itemPurchased": null,
+    "timestamp": 1736419942
+  },
+  {
+    "id": "25584646-e91f-4aad-85d7-0be7a062cd07",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 476,
+    "itemPurchased": null,
+    "timestamp": 1735886148
+  },
+  {
+    "id": "2479626e-29e6-4daf-9dad-ec8a626b99b1",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 101,
+    "itemPurchased": null,
+    "timestamp": 1735978614
+  },
+  {
+    "id": "cab5be10-6258-4afa-ab60-abe30bb8c4d7",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 185,
+    "itemPurchased": null,
+    "timestamp": 1736402103
+  },
+  {
+    "id": "8ccd8101-f6fb-4db1-97e0-2a81d0a81e92",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 301,
+    "itemPurchased": null,
+    "timestamp": 1736443499
+  },
+  {
+    "id": "3714d191-0aa9-46f6-8cc8-52794d2659d9",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 40,
+    "itemPurchased": null,
+    "timestamp": 1736416935
+  },
+  {
+    "id": "99ca5249-f7b3-41a2-8cd8-1bd99c415980",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 28,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 57,
+      "nbt": null
+    },
+    "timestamp": 1736071075
+  },
+  {
+    "id": "d9b54e82-8b8e-456b-bd6e-a71f3bf0a63c",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 301,
+    "itemPurchased": null,
+    "timestamp": 1735862333
+  },
+  {
+    "id": "b6382f6b-3d4e-4ee3-978b-c8ff1edfbb2e",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 404,
+    "itemPurchased": null,
+    "timestamp": 1736265712
+  },
+  {
+    "id": "f4792efe-e2e0-4371-a842-5235c73f15f9",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 332,
+    "itemPurchased": null,
+    "timestamp": 1736550212
+  },
+  {
+    "id": "b3650f8f-312a-41b7-96f2-c23c6b00cff7",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 353,
+    "itemPurchased": null,
+    "timestamp": 1736147652
+  },
+  {
+    "id": "c1c11253-8af3-441a-bf14-035b32c01748",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 234,
+    "itemPurchased": null,
+    "timestamp": 1736106612
+  },
+  {
+    "id": "fa4ba8c4-cfd1-4b4e-a877-cfe10812712a",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 447,
+    "itemPurchased": null,
+    "timestamp": 1736044405
+  },
+  {
+    "id": "36d1fddc-c041-49bb-ad29-35feadf0a949",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 469,
+    "itemPurchased": null,
+    "timestamp": 1736601231
+  },
+  {
+    "id": "0215b23f-7525-4598-bd44-af5392f0f5cf",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 412,
+    "itemPurchased": null,
+    "timestamp": 1736552826
+  },
+  {
+    "id": "580a12e3-37d6-4938-a4e5-c8c8f30337a1",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 426,
+    "itemPurchased": null,
+    "timestamp": 1736102476
+  },
+  {
+    "id": "ed297485-5fc6-4dc2-8b94-31401a00aada",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 298,
+    "itemPurchased": null,
+    "timestamp": 1736186905
+  },
+  {
+    "id": "b6517465-57ee-4138-8786-bdb6401da622",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 297,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 4,
+      "nbt": null
+    },
+    "timestamp": 1735848433
+  },
+  {
+    "id": "466d856c-4c83-4a0d-9756-a4799c708455",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 324,
+    "itemPurchased": null,
+    "timestamp": 1736378922
+  },
+  {
+    "id": "713c2ad5-6cb5-4e31-a3a1-1c41bfc3ec80",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 26,
+    "itemPurchased": null,
+    "timestamp": 1735991750
+  },
+  {
+    "id": "6c2034dd-d664-420d-973f-76273df50029",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 236,
+    "itemPurchased": null,
+    "timestamp": 1736571487
+  },
+  {
+    "id": "db286b4a-bd42-493b-bd0b-315d38acaa4a",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 66,
+    "itemPurchased": null,
+    "timestamp": 1736375716
+  },
+  {
+    "id": "c88f3fb3-e2e3-4f09-9583-5710059fc27f",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 424,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 56,
+      "nbt": null
+    },
+    "timestamp": 1736152308
+  },
+  {
+    "id": "99557bbd-ca39-401e-8250-e9bebf78facd",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 44,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 49,
+      "nbt": null
+    },
+    "timestamp": 1736200114
+  },
+  {
+    "id": "384fac31-9303-4a73-87be-428623bef25a",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 379,
+    "itemPurchased": null,
+    "timestamp": 1735976872
+  },
+  {
+    "id": "0614a3b4-74c9-4d59-bdc5-ab0df52fa068",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 186,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 38,
+      "nbt": null
+    },
+    "timestamp": 1736421935
+  },
+  {
+    "id": "bdd18db8-12ba-427f-9e5b-eec32a7fa80d",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 416,
+    "itemPurchased": null,
+    "timestamp": 1736449134
+  },
+  {
+    "id": "d90da3fd-31db-49f8-b2c8-92f08c9a1458",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 50,
+    "itemPurchased": null,
+    "timestamp": 1736177947
+  },
+  {
+    "id": "ee0d0ca8-7271-41df-9c17-1c2effb8195d",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 399,
+    "itemPurchased": null,
+    "timestamp": 1736428962
+  },
+  {
+    "id": "10b3af3b-51ef-45c6-a266-e80ed840e3f4",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 370,
+    "itemPurchased": null,
+    "timestamp": 1736478844
+  },
+  {
+    "id": "7252dd10-d2c4-40ef-ac93-d2eba213cb24",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 284,
+    "itemPurchased": null,
+    "timestamp": 1736129976
+  },
+  {
+    "id": "82014791-237c-4263-8fcb-afec5dbe11cf",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 47,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736321738
+  },
+  {
+    "id": "864ecdc5-6b04-420f-a3d0-866b9826eef4",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 289,
+    "itemPurchased": null,
+    "timestamp": 1736032220
+  },
+  {
+    "id": "3f07c525-5376-4035-b7df-53e75d5bc179",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 10,
+    "itemPurchased": null,
+    "timestamp": 1736267606
+  },
+  {
+    "id": "bd8f4af6-0ed8-40e5-ae3b-d7f1a776e0bb",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 177,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 30,
+      "nbt": null
+    },
+    "timestamp": 1736509029
+  },
+  {
+    "id": "c4c627ca-6cd7-425b-8516-dcfc9267f86b",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 334,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736191389
+  },
+  {
+    "id": "90296239-7680-4d61-aa6a-2ebf7c14d590",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 55,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736141394
+  },
+  {
+    "id": "ace098e2-aa69-4d10-b15d-5b408acd402f",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 400,
+    "itemPurchased": null,
+    "timestamp": 1736003755
+  },
+  {
+    "id": "f3fc1e89-ca41-4d9e-af0b-3d663231d2d8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 435,
+    "itemPurchased": null,
+    "timestamp": 1736251683
+  },
+  {
+    "id": "f0552e20-57f8-4f81-8ee5-b933558c9d2e",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 468,
+    "itemPurchased": null,
+    "timestamp": 1736501729
+  },
+  {
+    "id": "acae1caa-b85c-480e-a1d5-2b9e78fb36f3",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 373,
+    "itemPurchased": null,
+    "timestamp": 1735991497
+  },
+  {
+    "id": "c2165f75-3a16-4946-bab6-75f7fd188edf",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 119,
+    "itemPurchased": null,
+    "timestamp": 1736470648
+  },
+  {
+    "id": "c55482e1-e0a8-45dd-aff9-a2696e01e62f",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 82,
+    "itemPurchased": null,
+    "timestamp": 1736125824
+  },
+  {
+    "id": "9a3b03ea-9e7d-4618-ba81-7726c1d15ae8",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 23,
+    "itemPurchased": null,
+    "timestamp": 1736110589
+  },
+  {
+    "id": "6ff85b1d-f177-426a-9564-3c538d01d105",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 113,
+    "itemPurchased": null,
+    "timestamp": 1735844373
+  },
+  {
+    "id": "4450760e-d804-4577-9d10-ad6ceb02c8e6",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 266,
+    "itemPurchased": null,
+    "timestamp": 1736007641
+  },
+  {
+    "id": "b8612f21-297f-4fd3-b7dc-263853ad7dcd",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 358,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736145095
+  },
+  {
+    "id": "8e8ded01-ce2e-4237-b3b2-2e87d97909ca",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 297,
+    "itemPurchased": null,
+    "timestamp": 1735969642
+  },
+  {
+    "id": "be891dad-1ad6-4742-b45a-39b970ca2c22",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 270,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 41,
+      "nbt": null
+    },
+    "timestamp": 1736474152
+  },
+  {
+    "id": "c3f2a782-32fc-40d9-bbd8-a52afb6e09d7",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 77,
+    "itemPurchased": null,
+    "timestamp": 1736600561
+  },
+  {
+    "id": "7577bf15-35fa-48ec-8244-95469ee8ced4",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 197,
+    "itemPurchased": null,
+    "timestamp": 1736563714
+  },
+  {
+    "id": "2a3b5b35-8365-415c-92d3-ef8421761b55",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 141,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 44,
+      "nbt": null
+    },
+    "timestamp": 1736441963
+  },
+  {
+    "id": "23f6225c-0fec-464a-b5a8-4d1652c29879",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 66,
+    "itemPurchased": null,
+    "timestamp": 1736279561
+  },
+  {
+    "id": "2fa16656-7e64-4663-96d4-84f7b429a164",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 441,
+    "itemPurchased": null,
+    "timestamp": 1736043501
+  },
+  {
+    "id": "5d1439af-6761-4258-ab7f-8f19fdfd8429",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 395,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 61,
+      "nbt": null
+    },
+    "timestamp": 1736406578
+  },
+  {
+    "id": "3fd3dbfc-a7f8-4710-89b8-d770cc52d322",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 169,
+    "itemPurchased": null,
+    "timestamp": 1736479971
+  },
+  {
+    "id": "4f289982-4338-4a41-8caf-161141f142fc",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 40,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 36,
+      "nbt": null
+    },
+    "timestamp": 1736488876
+  },
+  {
+    "id": "38c4cef1-ad7c-47fe-ab0a-66b62836cdc8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 313,
+    "itemPurchased": null,
+    "timestamp": 1736603874
+  },
+  {
+    "id": "3d9fd30d-78aa-4e97-93a3-facf65576930",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 151,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735895167
+  },
+  {
+    "id": "1f5edf7e-efac-48c4-b693-94d5bbd364d9",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 81,
+    "itemPurchased": null,
+    "timestamp": 1735818833
+  },
+  {
+    "id": "33ef40e7-f536-4364-ba56-6ec4542efc5c",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 410,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736270723
+  },
+  {
+    "id": "ee7c3256-7a64-46a5-9117-2be11a3c428b",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 207,
+    "itemPurchased": null,
+    "timestamp": 1736274641
+  },
+  {
+    "id": "bb02c1b6-ff32-4408-b1cb-b27278f46e94",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 171,
+    "itemPurchased": null,
+    "timestamp": 1736164010
+  },
+  {
+    "id": "be2f0893-0379-43c2-932c-d394d91704c5",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 219,
+    "itemPurchased": null,
+    "timestamp": 1736177011
+  },
+  {
+    "id": "8f9248c8-fbfd-4e4f-b934-a70ab7e941db",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 265,
+    "itemPurchased": null,
+    "timestamp": 1736054364
+  },
+  {
+    "id": "34d35bf4-dfac-4c73-ba57-902859da391b",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 344,
+    "itemPurchased": null,
+    "timestamp": 1736499230
+  },
+  {
+    "id": "4762ce7f-2b40-4171-95bc-db944432fd62",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 314,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736118511
+  },
+  {
+    "id": "4ca8fb1b-4c31-423f-a20a-b6d65a566e60",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 221,
+    "itemPurchased": null,
+    "timestamp": 1736260880
+  },
+  {
+    "id": "255f1289-2dd0-425b-a468-bf1ed69193bb",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 308,
+    "itemPurchased": null,
+    "timestamp": 1735821687
+  },
+  {
+    "id": "1b295549-8fbc-4e13-855a-5f20fe663df4",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 136,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 58,
+      "nbt": null
+    },
+    "timestamp": 1736520000
+  },
+  {
+    "id": "cbf1842c-2ae8-4faa-901e-d4efe9f8bc9b",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 182,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 65,
+      "nbt": null
+    },
+    "timestamp": 1735815149
+  },
+  {
+    "id": "8410133f-1875-4cb0-862a-48791db6d243",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 255,
+    "itemPurchased": null,
+    "timestamp": 1736040541
+  },
+  {
+    "id": "103c1a3a-29f7-4b84-a0ef-1e3573308df0",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 14,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1735939905
+  },
+  {
+    "id": "c707fe04-fecb-4bb3-af57-9280cb788b35",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 379,
+    "itemPurchased": null,
+    "timestamp": 1736023372
+  },
+  {
+    "id": "2ef1e2c8-0291-44cd-ad5c-e0b7da512f47",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 251,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 12,
+      "nbt": null
+    },
+    "timestamp": 1736224869
+  },
+  {
+    "id": "f748a365-045f-4021-8959-fc84529e29e1",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 103,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736531462
+  },
+  {
+    "id": "6e7e1f59-a17b-42db-931d-bef7742682b9",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 114,
+    "itemPurchased": null,
+    "timestamp": 1736571806
+  },
+  {
+    "id": "175104c6-169a-4a63-908a-6fa9c37aafd8",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 22,
+    "itemPurchased": null,
+    "timestamp": 1735816736
+  },
+  {
+    "id": "bc1b43a2-f6c7-4dac-aece-490dabe4cf43",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 436,
+    "itemPurchased": null,
+    "timestamp": 1735833545
+  },
+  {
+    "id": "62b3da55-c196-4dfb-b91a-c11108b98f5d",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 157,
+    "itemPurchased": null,
+    "timestamp": 1736326025
+  },
+  {
+    "id": "fb177932-0161-4f2e-948b-da230be41e6f",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 426,
+    "itemPurchased": null,
+    "timestamp": 1736478181
+  },
+  {
+    "id": "a7b30ca7-b93e-4a28-ac69-5f13c2006cc0",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 261,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 49,
+      "nbt": null
+    },
+    "timestamp": 1736592447
+  },
+  {
+    "id": "982b9f40-708d-4abd-8288-611a3ca20f39",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 320,
+    "itemPurchased": null,
+    "timestamp": 1736257843
+  },
+  {
+    "id": "a0e19b63-aec9-43ec-8326-1f09d786a417",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 79,
+    "itemPurchased": null,
+    "timestamp": 1735901837
+  },
+  {
+    "id": "32fdba8e-6b44-48ff-ab07-7c12f8cd270b",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 177,
+    "itemPurchased": null,
+    "timestamp": 1736259097
+  },
+  {
+    "id": "8c958a6e-8bc8-4333-8f97-849083ea33fb",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 395,
+    "itemPurchased": null,
+    "timestamp": 1736031531
+  },
+  {
+    "id": "319de4e2-475b-4a9d-b7e9-3722b7a4e70a",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 112,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736037564
+  },
+  {
+    "id": "fa62a300-8650-4e96-b35f-37b6d48a7aaa",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 405,
+    "itemPurchased": null,
+    "timestamp": 1736089818
+  },
+  {
+    "id": "cf8bb2bb-6bc1-4fe7-878f-02d6511b97b2",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "money": 92,
+    "itemPurchased": null,
+    "timestamp": 1735967358
+  },
+  {
+    "id": "74a0a8cb-2b1d-4413-993d-aa43f32641a5",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 159,
+    "itemPurchased": null,
+    "timestamp": 1736540979
+  },
+  {
+    "id": "25ff35e7-fa2d-43f9-b6b6-38a0ffef71e1",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 11,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736253005
+  },
+  {
+    "id": "60c224f0-f53e-4fb5-8d9d-1b85b80dba62",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 395,
+    "itemPurchased": null,
+    "timestamp": 1735881578
+  },
+  {
+    "id": "6ca48ab9-64ca-4906-83ac-5bcfdf6286d2",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 242,
+    "itemPurchased": null,
+    "timestamp": 1735900076
+  },
+  {
+    "id": "93df3b4e-4cbc-4425-a6e1-0d7a61d41ef9",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 262,
+    "itemPurchased": null,
+    "timestamp": 1736263373
+  },
+  {
+    "id": "7b22c05a-b5f5-44ca-bde1-96bd1a62473d",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 473,
+    "itemPurchased": null,
+    "timestamp": 1736426543
+  },
+  {
+    "id": "c399696e-d5d1-4c98-94bc-d843b44e562f",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 69,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 48,
+      "nbt": null
+    },
+    "timestamp": 1736384094
+  },
+  {
+    "id": "d89533f3-7fd8-4f9e-8022-9ce0ca7cc019",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 263,
+    "itemPurchased": null,
+    "timestamp": 1735889205
+  },
+  {
+    "id": "d609b96e-e1f6-4e9b-9c2a-887647495cdf",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 181,
+    "itemPurchased": null,
+    "timestamp": 1735884607
+  },
+  {
+    "id": "456c2bbd-14b2-4224-a7b3-bae44e4d89f1",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 306,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 34,
+      "nbt": null
+    },
+    "timestamp": 1735836080
+  },
+  {
+    "id": "9e398909-09b1-456f-b944-791c74aed727",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 467,
+    "itemPurchased": null,
+    "timestamp": 1736286210
+  },
+  {
+    "id": "3a952102-caf3-4190-9385-3f138bfa9f1f",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 331,
+    "itemPurchased": null,
+    "timestamp": 1736130486
+  },
+  {
+    "id": "53783c04-8197-472e-ac5f-6ae25d39dd89",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 293,
+    "itemPurchased": null,
+    "timestamp": 1736281626
+  },
+  {
+    "id": "db780b94-197f-42eb-a756-bde8f536d87e",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "money": 381,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 28,
+      "nbt": null
+    },
+    "timestamp": 1736414266
+  },
+  {
+    "id": "3ac66f16-b3ed-4476-8f02-dbb06ec439c1",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 376,
+    "itemPurchased": null,
+    "timestamp": 1736187786
+  },
+  {
+    "id": "b64bf164-c172-4ee7-baa6-1c939280c856",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 1,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 13,
+      "nbt": null
+    },
+    "timestamp": 1736571361
+  },
+  {
+    "id": "a642cada-33c5-4c5f-84bc-72d7c39a9200",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 42,
+    "itemPurchased": {
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{components: {\"minecraft:enchantments\": {levels: {\"minecraft:mending\": 1, \"minecraft:looting\": 3, \"minecraft:fire_aspect\": 1}}}, count: 1, id: \"minecraft:diamond_sword\"}"
+    },
+    "timestamp": 1736597810
+  },
+  {
+    "id": "1fdf09c9-8244-48f9-ac39-2a930c2d64f8",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "4adad317-d08b-412d-a75b-c2834386b088",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 453,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 14,
+      "nbt": null
+    },
+    "timestamp": 1736539807
+  },
+  {
+    "id": "59f85c2b-c741-494e-a80a-405a304d7421",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "money": 326,
+    "itemPurchased": null,
+    "timestamp": 1735951462
+  },
+  {
+    "id": "06482920-f7c9-47b7-8652-b2edb194bb72",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "money": 79,
+    "itemPurchased": null,
+    "timestamp": 1736193092
+  },
+  {
+    "id": "5386120f-dd11-47c6-a4af-cb5b6d014faf",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 282,
+    "itemPurchased": null,
+    "timestamp": 1736425075
+  },
+  {
+    "id": "7d983dd5-d47e-4dc6-9482-3ed02eb48263",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "money": 213,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 49,
+      "nbt": null
+    },
+    "timestamp": 1735853264
+  },
+  {
+    "id": "911242b0-499e-4432-9fed-24fdad75523f",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "money": 337,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 53,
+      "nbt": null
+    },
+    "timestamp": 1736342439
+  },
+  {
+    "id": "eab41c2a-9299-4e53-9534-2bac2f354ea4",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "ec43c1e7-ecc7-49a1-bd11-243545a200bf",
+    "money": 100,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 38,
+      "nbt": null
+    },
+    "timestamp": 1736570801
+  },
+  {
+    "id": "dd6c43fb-12e4-4689-bd79-bd2779919431",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "09cd3bc1-e1d5-4e08-8cb5-c7189ce7c082",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 406,
+    "itemPurchased": null,
+    "timestamp": 1736581668
+  },
+  {
+    "id": "691f7934-975a-4875-826a-d8e75cd120be",
+    "type": "TRANSFER",
+    "participants": "PLAYERS",
+    "uuidFrom": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 311,
+    "itemPurchased": null,
+    "timestamp": 1735979443
+  },
+  {
+    "id": "db7e7444-3133-4fea-863b-2468db46e9b8",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 13,
+    "itemPurchased": null,
+    "timestamp": 1736219609
+  },
+  {
+    "id": "1529a04b-3048-4de9-a972-b5deda6b6420",
+    "type": "MODIFY",
+    "participants": "FROM_NULL",
+    "uuidFrom": null,
+    "uuidTo": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "money": 343,
+    "itemPurchased": null,
+    "timestamp": 1736034744
+  },
+  {
+    "id": "5cb0b2ff-efd3-4dbd-b97b-40ea57a3e2b0",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 468,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 64,
+      "nbt": null
+    },
+    "timestamp": 1736213768
+  },
+  {
+    "id": "5ec398b2-0671-4296-a392-2440eb7a8e2e",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "uuidTo": "853c80ef-3c37-49fd-aa49-938b674adae6",
+    "money": 115,
+    "itemPurchased": {
+      "item": "minecraft:nautilus_shell",
+      "count": 13,
+      "nbt": null
+    },
+    "timestamp": 1736146864
+  },
+  {
+    "id": "c35784ce-5db4-412e-ab5f-cdc5b0b9f8e0",
+    "type": "PURCHASE",
+    "participants": "PLAYERS",
+    "uuidFrom": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "uuidTo": "4adad317-d08b-412d-a75b-c2834386b088",
+    "money": 49,
+    "itemPurchased": {
+      "item": "minecraft:dirt",
+      "count": 58,
+      "nbt": null
+    },
+    "timestamp": 1736263758
+  }
+]
