@@ -64,16 +64,18 @@ def random_time(readable=False):
 class ItemPurchased(BaseModel):
     item: str
     count: int
-    nbt: str
+    nbt: Union[str, None]
 
 class PurchaseEntry(BaseModel):
     id: str
     type: str
     participants: str
-    uuidFrom: str
-    uuidTo: str
+    uuidFrom: Union[str, None]
+    uuidTo: Union[str, None]
+    nameFrom: Union[str, None]
+    nameTo: Union[str, None]
     money: int
-    itemPurchased: Union[ItemPurchased, str]
+    itemPurchased: Union[ItemPurchased, None]
     timestamp: int
 
 class TransactionEntries(BaseModel):
@@ -83,10 +85,18 @@ class TransactionEntries(BaseModel):
 
 # This is bringing in the UUIDs from the player data being used in the Webapp
 placeholderUUIDS: list[str] = []
+uuidNameDict: dict[str, str] = {}
 with open("assets/MOCK_PLAYER_DATA.json", 'r') as f:
     pData = json.load(f)
     for entry in pData:
         placeholderUUIDS.append(entry["uuid"])
+
+with open("assets/MOCK_PLAYER_DATA.json", 'r') as f:
+    pData = json.load(f)
+    for entry in pData:
+        uuidNameDict[entry["uuid"]] = entry["username"]
+
+
 
 
 
@@ -103,8 +113,10 @@ def makeTransferEntry():
         participants="PLAYERS",
         uuidFrom=str(fromUUID),
         uuidTo=str(toUUID),
+        nameFrom=str(uuidNameDict[fromUUID]),
+        nameTo=str(uuidNameDict[toUUID]),
         money=random.randint(1, 501),
-        itemPurchased="null",
+        itemPurchased=None,
         timestamp=int(random_time())
     )
     return transferEntry
@@ -124,13 +136,13 @@ def makePurchaseEntry():
     item2 = ItemPurchased(
         item="minecraft:dirt",
         count=random.randint(1, 65),
-        nbt="null"
+        nbt=None
     )
 
     item3 = ItemPurchased(
         item="minecraft:nautilus_shell",
         count=random.randint(1, 65),
-        nbt="null"
+        nbt=None
     )
 
     items: list[ItemPurchased] = [item1, item2, item3]
@@ -141,6 +153,8 @@ def makePurchaseEntry():
         participants="PLAYERS",
         uuidFrom=str(fromUUID),
         uuidTo=str(toUUID),
+        nameFrom=str(uuidNameDict[fromUUID]),
+        nameTo=str(uuidNameDict[toUUID]),
         money=random.randint(1, 501),
         itemPurchased=random.choice(items),
         timestamp=int(random_time())
@@ -148,14 +162,18 @@ def makePurchaseEntry():
     return purchaseEntry
 
 def makeModifyEntry():
+    toUUID: str = str(random.choice(placeholderUUIDS))
+
     modifyEntry = PurchaseEntry(
         id=str(uuid.uuid4()),
         type="MODIFY",
         participants="FROM_NULL",
-        uuidFrom="null",
-        uuidTo=str(random.choice(placeholderUUIDS)),
+        uuidFrom=None,
+        uuidTo=toUUID,
+        nameFrom=None,
+        nameTo=str(uuidNameDict[toUUID]),
         money=random.randint(1, 501),
-        itemPurchased="null",
+        itemPurchased=None,
         timestamp=int(random_time())
     )
     return modifyEntry
