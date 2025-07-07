@@ -1,41 +1,3 @@
-# Example Transaction Data
-# {
-#   "id": "",
-#   "type": "TRANSFER",
-#   "participants": "PLAYERS",
-#   "uuidFrom": "",
-#   "uuidTo": "",
-#   "money": 1234,
-#   "itemPurchased": null,
-#   "timestamp": 1735528500
-# }
-
-# {
-#   "id": "",
-#   "type": "PURCHASE",
-#   "participants": "PLAYERS",
-#   "uuidFrom": "",
-#   "uuidTo": "",
-#   "money": 1234,
-#   "itemPurchased": {
-#     "item": "minecraft:diamond",
-#     "count": 1,
-#     "nbt": null
-#   },
-#   "timestamp": 1735528500
-# }
-
-# {
-#   "id": "",
-#   "type": "MODIFY",
-#   "participants": "FROM_NULL",
-#   "uuidFrom": null,
-#   "uuidTo": "",
-#   "money": 1234,
-#   "itemPurchased": null,
-#   "timestamp": 1735528500
-# }
-
 import json
 import uuid
 from dataclasses import dataclass
@@ -45,7 +7,7 @@ import datetime
 import random
 
 from pydantic import BaseModel, RootModel, TypeAdapter
-from typing import TypeAlias, Union
+from typing import TypeAlias, Union, List
 
 
 # takes the current UNIX timestamp and returns one up to 10 days in the future
@@ -58,24 +20,32 @@ def random_time(readable=False):
     else:
         return str(datetime.datetime.fromtimestamp(rndTimestamp))
 
-
-
 # Sets up my data models to serialize to
-class ItemPurchased(BaseModel):
+
+class Enchantment(BaseModel):
+    id: str
+    level: Union[int, None]
+    name: Union[str, None]
+
+class ItemStack(BaseModel):
     item: str
     count: int
-    nbt: Union[str, None]
+    name: Union[str, None]
+    customName: Union[str, None]
+    enchantments: List[Enchantment]
+    lore: Union[str, None]
 
 class PurchaseEntry(BaseModel):
     id: str
     type: str
+    shopId: Union[str, None]
     participants: str
     uuidFrom: Union[str, None]
     uuidTo: Union[str, None]
     nameFrom: Union[str, None]
     nameTo: Union[str, None]
     money: int
-    itemPurchased: Union[ItemPurchased, None]
+    itemStack: Union[ItemStack, None]
     timestamp: int
 
 class TransactionEntries(BaseModel):
@@ -96,7 +66,24 @@ with open("assets/MOCK_PLAYER_DATA.json", 'r') as f:
     for entry in pData:
         uuidNameDict[entry["uuid"]] = entry["username"]
 
+# This is bringing in the UUIDs from the shop data being used in the Webapp
+shopUUIDS: list [str] = []
+uuidItemStackDict: dict[str, ItemStack] = {}
+uuidOwnerDict: dict[str, str] = {}
+with open("assets/MOCK_SHOP_DATA.json", "r") as f:
+    sData = json.load(f)
+    for entry in sData:
+        shopUUIDS.append(entry["id"])
 
+with open("assets/MOCK_SHOP_DATA.json", "r") as f:
+    sData = json.load(f)
+    for entry in sData:
+        uuidItemStackDict[entry["id"]] = entry["itemStack"]
+
+with open("assets/MOCK_SHOP_DATA.json", "r") as f:
+    sData = json.load(f)
+    for entry in sData:
+        uuidOwnerDict[entry["id"]] = entry["ownerUuid"]
 
 
 
@@ -110,53 +97,36 @@ def makeTransferEntry():
     transferEntry = PurchaseEntry(
         id=str(uuid.uuid4()),
         type="TRANSFER",
+        shopId=None,
         participants="PLAYERS",
         uuidFrom=str(fromUUID),
         uuidTo=str(toUUID),
         nameFrom=str(uuidNameDict[fromUUID]),
         nameTo=str(uuidNameDict[toUUID]),
         money=random.randint(1, 501),
-        itemPurchased=None,
+        itemStack=None,
         timestamp=int(random_time())
     )
     return transferEntry
 
 def makePurchaseEntry():
-    toUUID = random.choice(placeholderUUIDS)
+    shopUUID = random.choice(shopUUIDS)
+    toUUID = uuidOwnerDict[shopUUID]
     fromUUID = random.choice(placeholderUUIDS)
     while toUUID == fromUUID:
         fromUUID = random.choice(placeholderUUIDS)
-    
-    item1 = ItemPurchased(
-        item="minecraft:diamond_sword",
-        count="1",
-        nbt='{components: {"minecraft:enchantments": {levels: {"minecraft:mending": 1, "minecraft:looting": 3, "minecraft:fire_aspect": 1}}}, count: 1, id: "minecraft:diamond_sword"}'
-    )
-
-    item2 = ItemPurchased(
-        item="minecraft:dirt",
-        count=random.randint(1, 65),
-        nbt=None
-    )
-
-    item3 = ItemPurchased(
-        item="minecraft:nautilus_shell",
-        count=random.randint(1, 65),
-        nbt=None
-    )
-
-    items: list[ItemPurchased] = [item1, item2, item3]
 
     purchaseEntry = PurchaseEntry(
         id=str(uuid.uuid4()),
         type="PURCHASE",
+        shopId=str(shopUUID),
         participants="PLAYERS",
         uuidFrom=str(fromUUID),
         uuidTo=str(toUUID),
         nameFrom=str(uuidNameDict[fromUUID]),
         nameTo=str(uuidNameDict[toUUID]),
         money=random.randint(1, 501),
-        itemPurchased=random.choice(items),
+        itemStack=uuidItemStackDict[shopUUID],
         timestamp=int(random_time())
     )
     return purchaseEntry
@@ -167,13 +137,14 @@ def makeModifyEntry():
     modifyEntry = PurchaseEntry(
         id=str(uuid.uuid4()),
         type="MODIFY",
+        shopId=None,
         participants="FROM_NULL",
         uuidFrom=None,
         uuidTo=toUUID,
         nameFrom=None,
         nameTo=str(uuidNameDict[toUUID]),
         money=random.randint(1, 501),
-        itemPurchased=None,
+        itemStack=None,
         timestamp=int(random_time())
     )
     return modifyEntry

@@ -1,0 +1,259 @@
+[
+  {
+    "id": "28f7238d-1185-4b39-ab71-aa4da6b6fd58",
+    "ownerUuid": "4adad317-d08b-412d-a75b-c2834386b088",
+    "ownerName": "bright_spark",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": -136,
+      "y": 65,
+      "z": 2
+    },
+    "itemStack": {
+      "name": "Diamond",
+      "customName": null,
+      "item": "minecraft:diamond",
+      "count": 1,
+      "enchantments": [],
+      "lore": null
+    },
+    "price": 50
+  },
+  {
+    "id": "87bfe97a-da86-4fce-ac95-56bad83f7660",
+    "ownerUuid": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "ownerName": "Notaproto",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": -15,
+      "y": -50,
+      "z": 9
+    },
+    "itemStack": {
+      "name": "Enchanted Book",
+      "customName": null,
+      "item": "minecraft:enchanted_book",
+      "count": 1,
+      "enchantments": [
+        { "id": "minecraft:mending", "level": null, "name": "Mending" }
+      ],
+      "lore": null
+    },
+    "price": 250
+  },
+  {
+    "id": "61098734-6db9-4d2c-8fc8-0f65ad9cdf42",
+    "ownerUuid": "6f70b9ab-6a81-471a-b144-a8009b24ca67",
+    "ownerName": "ChrissQuartz",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": 94,
+      "y": 271,
+      "z": 3
+    },
+    "itemStack": {
+      "name": "Diamond Sword",
+      "customName": "McSwordyFace",
+      "item": "minecraft:diamond_sword",
+      "count": 1,
+      "enchantments": [
+        { "id": "minecraft:unbreaking", "level": 1, "name": "Unbreaking" },
+        { "id": "minecraft:sharpness", "level": 3, "name": "Sharpness" }
+      ],
+      "lore": null
+    },
+    "price": 80
+  },
+  {
+    "id": "5ad7b4b5-0006-4669-b91b-5fa06f09d8d6",
+    "ownerUuid": "8f2d5f8d-b320-491d-af07-0feda3185125",
+    "ownerName": "BassBoostedBork",
+    "dimension": "minecraft:nether",
+    "position": {
+      "x": 83,
+      "y": 42,
+      "z": 412
+    },
+    "itemStack": {
+      "name": "Netherrack",
+      "customName": null,
+      "item": "minecraft:netherrack",
+      "count": 64,
+      "enchantments": [],
+      "lore": null
+    },
+    "price": 5
+  },
+  {
+    "id": "be2607b3-e45a-4809-b99e-83aee8d24995",
+    "ownerUuid": "45a0f2fe-05ae-42f0-b041-bc3e7405f689",
+    "ownerName": "poppop8532",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": -612,
+      "y": 54,
+      "z": -1244
+    },
+    "itemStack": {
+      "name": "Diamond",
+      "customName": null,
+      "item": "minecraft:diamond",
+      "count": 2,
+      "enchantments": [],
+      "lore": null
+    },
+    "price": 70
+  },
+  {
+    "id": "4d7974f6-14a9-43ae-a3a3-9bc0fb18dfa6",
+    "ownerUuid": "0b730028-4972-4b08-be93-b1f9771b5268",
+    "ownerName": "krakenfall",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": 80,
+      "y": 27,
+      "z": -538
+    },
+    "itemStack": {
+      "name": "Golden Carrot",
+      "customName": null,
+      "item": "minecraft:golden_carrot",
+      "count": 64,
+      "enchantments": [],
+      "lore": null
+    },
+    "price": 180
+  },
+  {
+    "id": "6c5a608a-82d1-4458-b1ed-fcc79c4721ce",
+    "ownerUuid": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "ownerName": "jonjoniscool100",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": 513,
+      "y": 65,
+      "z": 1923
+    },
+    "itemStack": {
+      "name": "Diamond Helmet",
+      "customName": null,
+      "item": "minecraft:diamond_helmet",
+      "count": 1,
+      "enchantments": [
+        { "id": "minecraft:unbreaking", "level": 3, "name": "Unbreaking" },
+        { "id": "minecraft:protection", "level": 4, "name": "Protection" }
+      ],
+      "lore": "I buy my armor at JonJon's Armor Emporium!"
+    },
+    "price": 220
+  },
+  {
+    "id": "4cd98dc7-4d00-4dd8-8e81-053c68edcaa7",
+    "ownerUuid": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "ownerName": "jonjoniscool100",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": -4031,
+      "y": 68,
+      "z": 193
+    },
+    "itemStack": {
+      "name": "Diamond Chestplate",
+      "customName": null,
+      "item": "minecraft:diamond_chestplate",
+      "count": 1,
+      "enchantments": [
+        { "id": "minecraft:unbreaking", "level": 3, "name": "Unbreaking" },
+        { "id": "minecraft:protection", "level": 4, "name": "Protection" }
+      ],
+      "lore": "I buy my armor at JonJon's Armor Emporium!"
+    },
+    "price": 280
+  },
+  {
+    "id": "918f7ce8-95d8-45e4-afcb-21a235b9eada",
+    "ownerUuid": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "ownerName": "jonjoniscool100",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": 945,
+      "y": 11,
+      "z": 6
+    },
+    "itemStack": {
+      "name": "Diamond Leggings",
+      "customName": null,
+      "item": "minecraft:diamond_leggings",
+      "count": 1,
+      "enchantments": [
+        { "id": "minecraft:unbreaking", "level": 3, "name": "Unbreaking" },
+        { "id": "minecraft:protection", "level": 4, "name": "Protection" }
+      ],
+      "lore": "I buy my armor at JonJon's Armor Emporium!"
+    },
+    "price": 250
+  },
+  {
+    "id": "be82106e-ce08-403b-b4d7-73a3c106af00",
+    "ownerUuid": "d671201c-a0f0-45a1-a958-a581490ef849",
+    "ownerName": "jonjoniscool100",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": 734,
+      "y": 19,
+      "z": 280
+    },
+    "itemStack": {
+      "name": "Diamond Boots",
+      "customName": null,
+      "item": "minecraft:diamond_boots",
+      "count": 1,
+      "enchantments": [
+        { "id": "minecraft:unbreaking", "level": 3, "name": "Unbreaking" },
+        { "id": "minecraft:protection", "level": 4, "name": "Protection" }
+      ],
+      "lore": "I buy my armor at JonJon's Armor Emporium!"
+    },
+    "price": 200
+  },
+  {
+    "id": "191b1d36-ee6a-430b-aa9d-032e8c7fa703",
+    "ownerUuid": "205dfa33-0038-4c66-8159-f261a013efdf",
+    "ownerName": "Notaproto",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": -15,
+      "y": -50,
+      "z": 9
+    },
+    "itemStack": {
+      "name": "Netherite Scrap",
+      "customName": null,
+      "item": "minecraft:netherite_scrap",
+      "count": 1,
+      "enchantments": [],
+      "lore": null
+    },
+    "price": 250
+  },
+  {
+    "id": "86c5e5e0-b481-4366-90af-a81b07c9411b",
+    "ownerUuid": "4adad317-d08b-412d-a75b-c2834386b088",
+    "ownerName": "bright_spark",
+    "dimension": "minecraft:overworld",
+    "position": {
+      "x": -126,
+      "y": 82,
+      "z": 2073
+    },
+    "itemStack": {
+      "name": "Saddle",
+      "customName": null,
+      "item": "minecraft:saddle",
+      "count": 1,
+      "enchantments": [],
+      "lore": null
+    },
+    "price": 40
+  }
+]
